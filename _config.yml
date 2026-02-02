@@ -4,6 +4,32 @@ author:
   name: Close Talkers
   email: closetalkerspod@gmail.com
 description: "Derek and Katy are a married couple who are (re-)watching Seinfeld start to finish. One of us can recite every word. The other hasn't seen it. Come laugh with us!"
+url: "https://shawkatya.github.io/closetalkers"
+baseurl: "https://shawkatya.github.io"
 
 # Build settings
 remote_theme: jekyll/minima
+
+# Podcast-specific settings
+podcast:
+  title: "Close Talkers - A Seinfeld Podcast"
+  author: "Close Talkers"
+  description: "Derek and Katy are a married couple who are (re-)watching Seinfeld start to finish. One of us can recite every word. The other hasn't seen it. Come laugh with us!"
+  summary: "A die-hard fan and a total newbie watch Seinfeld together from the beginning and talk about it!"
+  copyright: "Close Talkers 2021"
+  language: "en-us"
+  owner_name: "Close Talkers - A Seinfeld Podcast"
+  owner_email: "closetalkerspod@gmail.com"
+  image: "closetalkers_logo.png"  # Path to your podcast artwork (1400x1400 to 3000x3000 px)
+  locked: "Yes"  # Prevents podcast feed hijacking
+  explicit: "no"  # or "yes" if your podcast contains explicit content
+  type: "episodic"  # or "serial" for sequential podcasts
+  
+  # Categories - customize these for your podcast
+  categories:
+    - name: "TV & Film"
+      subcategory: "After Shows"
+    - name: "Comedy"
+      subcategory: "Comedy Interviews"
+    - name: "TV & Film"
+      subcategory: "TV Reviews"
