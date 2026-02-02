@@ -2,4 +2,4 @@
 layout: home 
 ---
 
-Welcome to the new home of the Close Talkers podcast! All 179 episodes will be here. In Episode 0, Derek and Katy introduce themselves, talk a bit about why they are doing a Seinfeld podcast, and argue a little!
+Welcome to the new home of the Close Talkers podcast! All 179 episodes will be here, followed by the much anticipated Series 2! What will we discuss? Stay tuned to find out...
