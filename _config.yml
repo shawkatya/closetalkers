@@ -7,6 +7,8 @@ author:
 description: "Derek and Katy are a married couple who are (re-)watching Seinfeld start to finish. One of us can recite every word. The other hasn't seen it. Come laugh with us!"
 url: "https://shawkatya.github.io/closetalkers"
 baseurl: "https://shawkatya.github.io"
+include: _assets
+
 
 # Build settings
 remote_theme: jekyll/minima
