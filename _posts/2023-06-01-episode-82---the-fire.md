@@ -10,7 +10,7 @@ podcast:
   season: 5
   episode_type: "full"
   explicit: "no"
-  summary: "Derek lectures us on theism, but concludes by suggesting we read "Nietzche's book over there" for the complete story. George runs from a fire and Katy misunderstands an accident."
+  summary: "Derek lectures us on theism, but concludes by suggesting we read \"Nietzche's book over there\" for the complete story. George runs from a fire and Katy misunderstands an accident."
   # image: "/assets/episode-cover.png"
 ---
 Derek lectures us on theism, but concludes by suggesting we read "Nietzche's book over there" for the complete story. George runs from a fire and Katy misunderstands an accident.

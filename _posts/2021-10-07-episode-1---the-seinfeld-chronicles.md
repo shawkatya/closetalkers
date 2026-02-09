@@ -10,7 +10,7 @@ podcast:
   season: 1
   episode_type: "full"
   explicit: "no"
-  summary: "We begin the series for real, discussing the pilot episode, "The Seinfeld Chronicles". What happened to the dog?"
+  summary: "We begin the series for real, discussing the pilot episode, \"The Seinfeld Chronicles\". What happened to the dog?"
   # image: "/assets/episode-cover.png"
 ---
 We begin the series for real, discussing the pilot episode, "The Seinfeld Chronicles". What happened to the dog?

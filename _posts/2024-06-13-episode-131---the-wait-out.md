@@ -10,7 +10,7 @@ podcast:
   season: 7
   episode_type: "full"
   explicit: "no"
-  summary: "It's better than Ghandi. Somehow we get into conservative mouthpieces and "reversaries". Susan chooses the chicken."
+  summary: "It's better than Ghandi. Somehow we get into conservative mouthpieces and \"reversaries\". Susan chooses the chicken."
   # image: "/assets/episode-cover.png"
 ---
 It's better than Ghandi. Somehow we get into conservative mouthpieces and "reversaries". Susan chooses the chicken.

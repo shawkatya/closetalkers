@@ -10,7 +10,7 @@ podcast:
   season: 3
   episode_type: "full"
   explicit: "no"
-  summary: "We attempt to solve the age-old question that nobody has asked, "If you plug an old phone into a landline jack with no home phone service, can you still call 911?" And then some stuff about Keith Hernandez, unemployment, spitting on Newman, Elaine and jealousy, moving furniture, and a tall woman."
+  summary: "We attempt to solve the age-old question that nobody has asked, \"If you plug an old phone into a landline jack with no home phone service, can you still call 911?\" And then some stuff about Keith Hernandez, unemployment, spitting on Newman, Elaine and jealousy, moving furniture, and a tall woman."
   # image: "/assets/episode-cover.png"
 ---
 We attempt to solve the age-old question that nobody has asked, "If you plug an old phone into a landline jack with no home phone service, can you still call 911?" And then some stuff about Keith Hernandez, unemployment, spitting on Newman, Elaine and jealousy, moving furniture, and a tall woman.

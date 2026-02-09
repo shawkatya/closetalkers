@@ -10,7 +10,7 @@ podcast:
   season: 8
   episode_type: "full"
   explicit: "no"
-  summary: "Maybe they are salamis up there. Maybe what this woman needs is brother husbands. Katy is not going to wear a "Team Pubes" shirt."
+  summary: "Maybe they are salamis up there. Maybe what this woman needs is brother husbands. Katy is not going to wear a \"Team Pubes\" shirt."
   # image: "/assets/episode-cover.png"
 ---
 Maybe they are salamis up there. Maybe what this woman needs is brother husbands. Katy is not going to wear a "Team Pubes" shirt.

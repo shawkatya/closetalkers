@@ -10,7 +10,7 @@ podcast:
   season: 6
   episode_type: "full"
   explicit: "no"
-  summary: "Derek says the words "better than naked is hoiking?" in this episode, in which we also say the word sex a lot. We talk more about the shirt off than the garbage eclair."
+  summary: "Derek says the words \"better than naked is hoiking?\" in this episode, in which we also say the word sex a lot. We talk more about the shirt off than the garbage eclair."
   # image: "/assets/episode-cover.png"
 ---
 Derek says the words "better than naked is hoiking?" in this episode, in which we also say the word sex a lot. We talk more about the shirt off than the garbage eclair.

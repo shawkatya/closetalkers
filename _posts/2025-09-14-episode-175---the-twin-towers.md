@@ -10,7 +10,7 @@ podcast:
   season: 9
   episode_type: "full"
   explicit: "no"
-  summary: "We offer a table read of the Seinfeld spec script "The Twin Towers" and assume no responsibility for how you feel about it."
+  summary: "We offer a table read of the Seinfeld spec script \"The Twin Towers\" and assume no responsibility for how you feel about it."
   # image: "/assets/episode-cover.png"
 ---
 We offer a table read of the Seinfeld spec script "The Twin Towers" and assume no responsibility for how you feel about it.

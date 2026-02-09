@@ -10,7 +10,7 @@ podcast:
   season: 4
   episode_type: "full"
   explicit: "no"
-  summary: "We embrace the beauty of silence as Derek tries to recall a classic tale and we draw triangles. Caution for kids listening in, we say "bitches" a bunch of times."
+  summary: "We embrace the beauty of silence as Derek tries to recall a classic tale and we draw triangles. Caution for kids listening in, we say \"bitches\" a bunch of times."
   # image: "/assets/episode-cover.png"
 ---
 We embrace the beauty of silence as Derek tries to recall a classic tale and we draw triangles. Caution for kids listening in, we say "bitches" a bunch of times.

@@ -10,7 +10,7 @@ podcast:
   season: 7
   episode_type: "full"
   explicit: "no"
-  summary: "We perform a table read of the abandoned Seinfeld episode "The Gun/The Bet", written by Larry Charles and deemed not funny enough and too dark to continue production. How many items can we make our child fetch so she's won't hear us say "sex"?"
+  summary: "We perform a table read of the abandoned Seinfeld episode \"The Gun/The Bet\", written by Larry Charles and deemed not funny enough and too dark to continue production. How many items can we make our child fetch so she's won't hear us say \"sex\"?"
   # image: "/assets/episode-cover.png"
 ---
 We perform a table read of the abandoned Seinfeld episode "The Gun/The Bet", written by Larry Charles and deemed not funny enough and too dark to continue production. How many items can we make our child fetch so she's won't hear us say "sex"?

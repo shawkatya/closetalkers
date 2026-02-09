@@ -10,7 +10,7 @@ podcast:
   season: 9
   episode_type: "full"
   explicit: "no"
-  summary: "Is there a market for "cool S" car decals? You don't hear much about God these days anymore. Kramer gets gonorrhea."
+  summary: "Is there a market for \"cool S\" car decals? You don't hear much about God these days anymore. Kramer gets gonorrhea."
   # image: "/assets/episode-cover.png"
 ---
 Is there a market for "cool S" car decals? You don't hear much about God these days anymore. Kramer gets gonorrhea.

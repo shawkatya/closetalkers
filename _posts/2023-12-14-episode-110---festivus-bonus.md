@@ -10,7 +10,7 @@ podcast:
   season: 6
   episode_type: "full"
   explicit: "no"
-  summary: "Is nog short for "not egg" in this case? We drink on air for your holiday enjoyment. Warning: Lots of lippy smacky noises."
+  summary: "Is nog short for \"not egg\" in this case? We drink on air for your holiday enjoyment. Warning: Lots of lippy smacky noises."
   # image: "/assets/episode-cover.png"
 ---
 Is nog short for "not egg" in this case? We drink on air for your holiday enjoyment. Warning: Lots of lippy smacky noises.

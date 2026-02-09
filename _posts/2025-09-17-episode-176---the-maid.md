@@ -10,7 +10,7 @@ podcast:
   season: 9
   episode_type: "full"
   explicit: "no"
-  summary: "This is the gem of season 9. We argue what constitutes "downtown". Can kangaroo meat be local in Canada?"
+  summary: "This is the gem of season 9. We argue what constitutes \"downtown\". Can kangaroo meat be local in Canada?"
   # image: "/assets/episode-cover.png"
 ---
 This is the gem of season 9. We argue what constitutes "downtown". Can kangaroo meat be local in Canada?
