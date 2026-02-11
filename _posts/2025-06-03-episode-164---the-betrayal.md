@@ -3,7 +3,7 @@ layout: post
 title: "Episode 164 - The Betrayal"
 date: 2025-06-03 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep908_the_betrayal.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep908_the_betrayal.mp3"
   file_size: 39921812
   duration: 2082
   guid: "36a710e6-52be-485d-bacc-e171fc0aead9"

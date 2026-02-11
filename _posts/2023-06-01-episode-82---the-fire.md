@@ -3,7 +3,7 @@ layout: post
 title: "Episode 82 - The Fire"
 date: 2023-06-01 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep582_the_fire.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep582_the_fire.mp3"
   file_size: 27203911
   duration: 1934
   guid: "22b7f0c5-8270-400d-a867-2adb5b9f647b"

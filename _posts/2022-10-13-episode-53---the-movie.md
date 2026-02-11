@@ -3,7 +3,7 @@ layout: post
 title: "Episode 53 - The Movie"
 date: 2022-10-13 22:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep453_the_movie.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep453_the_movie.mp3"
   file_size: 23662194
   duration: 1681
   guid: "f8054e14-dbff-4173-ab55-12876b399118"

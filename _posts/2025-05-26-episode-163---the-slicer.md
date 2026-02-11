@@ -3,7 +3,7 @@ layout: post
 title: "Episode 163 - The Slicer"
 date: 2025-05-26 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep907_the_slicer.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep907_the_slicer.mp3"
   file_size: 41803890
   duration: 2222
   guid: "882427f6-e592-48f8-a13a-8688f3ccd729"

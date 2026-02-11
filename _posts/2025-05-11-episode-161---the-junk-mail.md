@@ -3,7 +3,7 @@ layout: post
 title: "Episode 161 - The Junk Mail"
 date: 2025-05-11 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep905_the_junk_mail.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep905_the_junk_mail.mp3"
   file_size: 33136311
   duration: 1751
   guid: "9cdfcc12-8b30-4f9a-b179-b75103b23812"

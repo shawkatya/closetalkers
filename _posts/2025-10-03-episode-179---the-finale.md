@@ -3,7 +3,7 @@ layout: post
 title: "Episode 179 - The Finale"
 date: 2025-10-03 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep923_the_finale.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep923_the_finale.mp3"
   file_size: 57143777
   duration: 3024
   guid: "adae5aaf-91b8-4d94-9467-7459d23a198b"

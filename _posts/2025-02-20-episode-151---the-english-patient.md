@@ -3,7 +3,7 @@ layout: post
 title: "Episode 151 - The English Patient"
 date: 2025-02-20 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep817_the_english_patient.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep817_the_english_patient.mp3"
   file_size: 24023519
   duration: 1707
   guid: "8ffeb868-a338-4cd1-b6f6-d50ad5ae4db1"

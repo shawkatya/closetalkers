@@ -3,7 +3,7 @@ layout: post
 title: "Episode 91 - The Soup"
 date: 2023-08-03 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep691_the_soup.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep691_the_soup.mp3"
   file_size: 26518288
   duration: 1885
   guid: "4cb8fac4-b753-44dc-8d0f-db1d28f1635c"

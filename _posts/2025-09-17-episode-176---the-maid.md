@@ -3,7 +3,7 @@ layout: post
 title: "Episode 176 - The Maid"
 date: 2025-09-17 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep920_the_maid.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep920_the_maid.mp3"
   file_size: 37746743
   duration: 2010
   guid: "f2921d3a-d451-4588-803b-2fa5877657e4"

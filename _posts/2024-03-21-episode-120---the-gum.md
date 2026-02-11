@@ -3,7 +3,7 @@ layout: post
 title: "Episode 120 - The Gum"
 date: 2024-03-21 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep710_the_gum.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep710_the_gum.mp3"
   file_size: 18235359
   duration: 1294
   guid: "0e8ee512-7513-4732-8bac-6883b7456ba6"

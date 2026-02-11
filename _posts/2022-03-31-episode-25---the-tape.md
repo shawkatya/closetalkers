@@ -3,7 +3,7 @@ layout: post
 title: "Episode 25 - The Tape"
 date: 2022-03-31 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep325_the_tape.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep325_the_tape.mp3"
   file_size: 19102362
   duration: 1356
   guid: "95405ae2-8df1-45a3-b2c4-8799b040aabf"

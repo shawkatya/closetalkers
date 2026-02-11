@@ -3,7 +3,7 @@ layout: post
 title: "Episode 142 - The Chicken Roaster"
 date: 2024-12-05 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep808_the_chicken_roaster.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep808_the_chicken_roaster.mp3"
   file_size: 24754718
   duration: 1759
   guid: "26cdeb25-d5ac-45c3-a387-62b90a52c2c0"

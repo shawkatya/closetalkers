@@ -3,7 +3,7 @@ layout: post
 title: "Episode 107 - The Diplomats Club"
 date: 2023-11-23 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep607_the_diplomats_club.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep607_the_diplomats_club.mp3"
   file_size: 24367713
   duration: 1732
   guid: "df6d44c1-a77d-455f-8a94-cd163bef4bf2"

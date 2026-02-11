@@ -3,7 +3,7 @@ layout: post
 title: "Episode 159 - The Serenity Now"
 date: 2025-04-28 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep903_the_serenity_now.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep903_the_serenity_now.mp3"
   file_size: 40396611
   duration: 2098
   guid: "315da48f-1c61-4d1f-ae4f-c668fc0366c3"

@@ -3,7 +3,7 @@ layout: post
 title: "Episode 55 - The Shoes"
 date: 2022-10-27 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep455_the_shoes.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep455_the_shoes.mp3"
   file_size: 28227370
   duration: 2007
   guid: "0069bc98-9019-4dc4-a9d1-dd07fd744923"

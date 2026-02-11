@@ -3,7 +3,7 @@ layout: post
 title: "Episode 149 - The Susie"
 date: 2025-02-07 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep815_the_susie.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep815_the_susie.mp3"
   file_size: 31269674
   duration: 2225
   guid: "5e5382a0-219b-4dd4-a8ef-4efb01026e61"

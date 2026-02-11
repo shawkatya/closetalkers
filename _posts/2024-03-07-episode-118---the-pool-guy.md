@@ -3,7 +3,7 @@ layout: post
 title: "Episode 118 - The Pool Guy"
 date: 2024-03-07 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep708_the_pool_guy.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep708_the_pool_guy.mp3"
   file_size: 24891711
   duration: 1769
   guid: "7cdb8527-a494-41ff-9680-0a2155a73593"

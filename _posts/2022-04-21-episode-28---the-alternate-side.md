@@ -3,7 +3,7 @@ layout: post
 title: "Episode 28 - The Alternate Side"
 date: 2022-04-21 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep328_the_alternate_side.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep328_the_alternate_side.mp3"
   file_size: 23383134
   duration: 1661
   guid: "a7485ffd-9817-4d72-b07b-8ed6b7064cc1"

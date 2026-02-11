@@ -3,7 +3,7 @@ layout: post
 title: "Episode 134 - The Gun"
 date: 2024-08-08 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep724_the_gun.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep724_the_gun.mp3"
   file_size: 23157526
   duration: 1645
   guid: "20e5abe6-2228-416c-b6d7-23647e2609ed"

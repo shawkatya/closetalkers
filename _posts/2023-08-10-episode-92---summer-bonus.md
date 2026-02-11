@@ -3,7 +3,7 @@ layout: post
 title: "Episode 92 - Summer Bonus"
 date: 2023-08-10 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep692_bonus.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep692_bonus.mp3"
   file_size: 18650845
   duration: 1323
   guid: "7b246fdf-4035-4a26-ade8-934f08fb7444"

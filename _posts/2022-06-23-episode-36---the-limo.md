@@ -3,7 +3,7 @@ layout: post
 title: "Episode 36 - The Limo"
 date: 2022-06-23 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep336_the_limo.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep336_the_limo.mp3"
   file_size: 25731437
   duration: 1829
   guid: "033bc93c-7d34-4b00-aaa1-07fc20f97db4"

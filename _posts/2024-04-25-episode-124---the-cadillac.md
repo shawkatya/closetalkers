@@ -3,7 +3,7 @@ layout: post
 title: "Episode 124 - The Cadillac"
 date: 2024-04-25 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep714_the_cadillac.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep714_the_cadillac.mp3"
   file_size: 36468057
   duration: 2596
   guid: "781912d7-8b9f-4be3-b7f3-3c37ce408143"

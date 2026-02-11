@@ -3,7 +3,7 @@ layout: post
 title: "Episode 74 - The Conversion"
 date: 2023-03-30 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep574_the_conversion.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep574_the_conversion.mp3"
   file_size: 27109449
   duration: 1927
   guid: "74bf956a-57c7-41ed-931c-9e1b782b359a"

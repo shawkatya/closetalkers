@@ -3,7 +3,7 @@ layout: post
 title: "Episode 137 - The Bizarro Jerry"
 date: 2024-10-24 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep803_the_bizarro_jerry.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep803_the_bizarro_jerry.mp3"
   file_size: 22696372
   duration: 1612
   guid: "26b30e55-999c-4122-bd7f-b496da9a36c9"

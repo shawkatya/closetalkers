@@ -3,7 +3,7 @@ layout: post
 title: "Episode 69 - The Lip Reader"
 date: 2023-02-23 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep569_the_lip_reader.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep569_the_lip_reader.mp3"
   file_size: 24178023
   duration: 1718
   guid: "b8d8e200-bda4-487b-949f-1ea246d9fe27"

@@ -3,7 +3,7 @@ layout: post
 title: "Episode 61 - The Handicap Spot"
 date: 2022-12-15 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep461_the_handicap_spot.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep461_the_handicap_spot.mp3"
   file_size: 29144709
   duration: 2073
   guid: "4189df16-0fc7-4cf3-998b-d2bb30b43396"

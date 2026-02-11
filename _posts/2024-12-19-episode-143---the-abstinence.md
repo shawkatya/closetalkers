@@ -3,7 +3,7 @@ layout: post
 title: "Episode 143 - The Abstinence"
 date: 2024-12-19 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep809_the_abstinence.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep809_the_abstinence.mp3"
   file_size: 26849725
   duration: 1909
   guid: "6b80a833-1676-48e0-9d9a-f856f19aedc3"

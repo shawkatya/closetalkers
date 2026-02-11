@@ -3,7 +3,7 @@ layout: post
 title: "Episode 67 - The Sniffing Accountant"
 date: 2023-02-09 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep567_the_sniffing_accountant.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep567_the_sniffing_accountant.mp3"
   file_size: 31429248
   duration: 2236
   guid: "9073d3fe-c444-456a-9f36-6d34195ab433"

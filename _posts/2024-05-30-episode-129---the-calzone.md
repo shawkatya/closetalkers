@@ -3,7 +3,7 @@ layout: post
 title: "Episode 129 - The Calzone"
 date: 2024-05-30 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep719_the_calzone.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep719_the_calzone.mp3"
   file_size: 28016500
   duration: 1992
   guid: "1353fcb6-3466-4b22-9bf2-d6f48560bbc1"

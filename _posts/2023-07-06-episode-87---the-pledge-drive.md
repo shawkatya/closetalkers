@@ -3,7 +3,7 @@ layout: post
 title: "Episode 87 - The Pledge Drive"
 date: 2023-07-06 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep687_the_pledge_drive.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep687_the_pledge_drive.mp3"
   file_size: 19880694
   duration: 1411
   guid: "0f61a274-d3c6-47cc-ae6a-b9999ed89b71"

@@ -3,7 +3,7 @@ layout: post
 title: "Episode 41 - Bonus Episode"
 date: 2022-07-24 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep441_bonus_episode.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep441_bonus_episode.mp3"
   file_size: 24063442
   duration: 1710
   guid: "2f68a40b-68a1-4af4-ab54-acd8d00afb2b"

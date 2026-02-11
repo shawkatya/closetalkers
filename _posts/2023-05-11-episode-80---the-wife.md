@@ -3,7 +3,7 @@ layout: post
 title: "Episode 80 - The Wife"
 date: 2023-05-11 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep580_the_wife.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep580_the_wife.mp3"
   file_size: 28219267
   duration: 2007
   guid: "4460c88c-a1d6-4e08-94a5-28ddf49d63bc"

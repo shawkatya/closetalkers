@@ -3,7 +3,7 @@ layout: post
 title: "Episode 138 - The Little Kicks"
 date: 2024-10-31 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep804_the_little_kicks.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep804_the_little_kicks.mp3"
   file_size: 20685725
   duration: 1469
   guid: "b4e8c5f4-2b63-45ea-b2d1-7559aee2f605"

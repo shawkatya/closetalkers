@@ -3,7 +3,7 @@ layout: post
 title: "Episode 27 - The Stranded"
 date: 2022-04-14 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep327_the_stranded.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep327_the_stranded.mp3"
   file_size: 27032982
   duration: 1922
   guid: "73762e71-7f8c-46b5-9d3e-537dab4eb6ef"

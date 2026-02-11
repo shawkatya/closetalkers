@@ -3,7 +3,7 @@ layout: post
 title: "Episode 56 - The Outing"
 date: 2022-11-03 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep456_the_outing.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep456_the_outing.mp3"
   file_size: 22938393
   duration: 1630
   guid: "10247542-5cc6-4bf3-9094-0f0cae35ab06"

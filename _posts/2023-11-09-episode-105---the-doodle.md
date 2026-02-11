@@ -3,7 +3,7 @@ layout: post
 title: "Episode 105 - The Doodle"
 date: 2023-11-09 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep605_the_doodle.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep605_the_doodle.mp3"
   file_size: 20613142
   duration: 1463
   guid: "564eae48-0dba-4ee3-9dd0-45b87a150791"

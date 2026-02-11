@@ -3,7 +3,7 @@ layout: post
 title: "Episode 108 - The Facepainter"
 date: 2023-11-30 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep608_the_facepainter.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep608_the_facepainter.mp3"
   file_size: 29008793
   duration: 2063
   guid: "7eac3f9e-0e71-442d-a786-2e602d2f7ae2"

@@ -3,7 +3,7 @@ layout: post
 title: "Episode 54 - The Visa"
 date: 2022-10-20 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep454_the_visa.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep454_the_visa.mp3"
   file_size: 22966427
   duration: 1632
   guid: "b3190127-8dfb-45de-ac39-daf2926a6491"

@@ -3,7 +3,7 @@ layout: post
 title: "Episode 94 - The Mom and Pop Store"
 date: 2023-08-24 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep694_mom_and_pop.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep694_mom_and_pop.mp3"
   file_size: 30044322
   duration: 2137
   guid: "f1c5ec98-1cbe-4b24-aa6a-513cf802662b"

@@ -3,7 +3,7 @@ layout: post
 title: "Episode 156 - The Summer of George"
 date: 2025-03-28 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep822_the_summer_of_george.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep822_the_summer_of_george.mp3"
   file_size: 44891026
   duration: 1658
   guid: "73bf357a-1a49-47b3-abe4-9107f132960e"

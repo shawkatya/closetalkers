@@ -3,7 +3,7 @@ layout: post
 title: "Episode 90 - The Gymnast"
 date: 2023-07-27 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep690_the_gymnast.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep690_the_gymnast.mp3"
   file_size: 26440619
   duration: 1880
   guid: "ac58bbdf-bf09-4e07-9af8-de2fc3b87487"

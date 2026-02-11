@@ -3,7 +3,7 @@ layout: post
 title: "Episode 111 - The Engagement"
 date: 2024-01-18 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep711_the_engagement.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep711_the_engagement.mp3"
   file_size: 25931963
   duration: 1843
   guid: "21317d2b-cfa0-47cb-9f7f-8ffcef5376dd"

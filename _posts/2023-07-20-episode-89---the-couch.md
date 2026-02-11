@@ -3,7 +3,7 @@ layout: post
 title: "Episode 89 - The Couch"
 date: 2023-07-20 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep689_the_couch.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep689_the_couch.mp3"
   file_size: 30761192
   duration: 2188
   guid: "09cfe795-b1aa-4ba1-8839-75a71362bb13"

@@ -3,7 +3,7 @@ layout: post
 title: "Episode 125 - The Shower Head"
 date: 2024-05-02 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep715_the_shower_head.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep715_the_shower_head.mp3"
   file_size: 27716506
   duration: 1971
   guid: "d68c35ff-95f3-4695-8567-9fe76df2779a"

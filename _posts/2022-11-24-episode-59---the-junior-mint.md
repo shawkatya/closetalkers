@@ -3,7 +3,7 @@ layout: post
 title: "Episode 59 - The Junior Mint"
 date: 2022-11-24 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep459_the_junior_mint.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep459_the_junior_mint.mp3"
   file_size: 24939967
   duration: 1773
   guid: "70050a32-8fc3-4de1-8991-5a6c242accb4"

@@ -3,7 +3,7 @@ layout: post
 title: "Episode 97 - The Switch"
 date: 2023-09-14 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep697_the_switch.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep697_the_switch.mp3"
   file_size: 22198745
   duration: 1577
   guid: "df785cbc-92f9-45d8-8800-10377c41fe8e"

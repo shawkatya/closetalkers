@@ -3,7 +3,7 @@ layout: post
 title: "Episode 122 - The Caddy"
 date: 2024-04-11 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep712_the_caddy.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep712_the_caddy.mp3"
   file_size: 31041457
   duration: 2208
   guid: "d375e266-9894-4ed0-9d88-ec3f0fb1a3c6"

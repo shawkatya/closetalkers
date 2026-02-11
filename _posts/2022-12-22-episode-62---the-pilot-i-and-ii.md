@@ -3,7 +3,7 @@ layout: post
 title: "Episode 62 - The Pilot I and II"
 date: 2022-12-22 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep462_the_pilot_1_2.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep462_the_pilot_1_2.mp3"
   file_size: 30141566
   duration: 2144
   guid: "86fcc186-523b-4377-a9b3-dd252c0da976"

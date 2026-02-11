@@ -3,7 +3,7 @@ layout: post
 title: "Episode 116 - The Soup Nazi"
 date: 2024-02-22 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep706_the_soup_nazi.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep706_the_soup_nazi.mp3"
   file_size: 39166247
   duration: 2789
   guid: "4b439a92-31f8-44a9-ad6a-96b71b9832c0"

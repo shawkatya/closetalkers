@@ -3,7 +3,7 @@ layout: post
 title: "Episode 4 - Male Unbonding"
 date: 2021-10-28 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep104_male_unbonding.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep104_male_unbonding.mp3"
   file_size: 23561070
   duration: 1674
   guid: "e37430e7-f961-4828-b63b-e44d57308016"

@@ -3,7 +3,7 @@ layout: post
 title: "Episode 76 - The Dinner Party"
 date: 2023-04-13 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep576_the_dinner_party.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep576_the_dinner_party.mp3"
   file_size: 32688794
   duration: 2326
   guid: "a4d3cc43-e3b2-43ba-8471-35071ac70561"

@@ -3,7 +3,7 @@ layout: post
 title: "Episode 46 - The Bubble Boy"
 date: 2022-08-25 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep446_the_bubble_boy.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep446_the_bubble_boy.mp3"
   file_size: 23294629
   duration: 1655
   guid: "9e472e22-e87e-4382-85ed-462ef05b1690"

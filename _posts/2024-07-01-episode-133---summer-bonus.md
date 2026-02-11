@@ -3,7 +3,7 @@ layout: post
 title: "Episode 133 - Summer Bonus"
 date: 2024-07-01 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep723_summer_bonus.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep723_summer_bonus.mp3"
   file_size: 18913881
   duration: 1342
   guid: "6c8c676f-ea19-40f4-8a73-6e8a79f74eb8"

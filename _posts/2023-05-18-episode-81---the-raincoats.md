@@ -3,7 +3,7 @@ layout: post
 title: "Episode 81 - The Raincoats"
 date: 2023-05-18 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep581_the_raincoats.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep581_the_raincoats.mp3"
   file_size: 36576594
   duration: 2604
   guid: "d495fa94-2edb-4dd5-91ef-a802803ab339"

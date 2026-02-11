@@ -3,7 +3,7 @@ layout: post
 title: "Episode 167 - The Dealership"
 date: 2025-06-24 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep911_the_dealership.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep911_the_dealership.mp3"
   file_size: 48266051
   duration: 2552
   guid: "28e6b2a9-9a72-4d91-82b2-14a703ef60ef"

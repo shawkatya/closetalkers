@@ -3,7 +3,7 @@ layout: post
 title: "Episode 104 - The Jimmy"
 date: 2023-11-02 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep604_the_jimmy.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep604_the_jimmy.mp3"
   file_size: 24806470
   duration: 1763
   guid: "92236963-43e9-4f53-8a8d-27f7de4745a5"

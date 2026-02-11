@@ -3,7 +3,7 @@ layout: post
 title: "Episode 2 - The Stake Out"
 date: 2021-10-14 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep102_the_stake_out.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep102_the_stake_out.mp3"
   file_size: 22263998
   duration: 1581
   guid: "914a3b70-1830-45ec-8e0b-1af44a4b30d6"

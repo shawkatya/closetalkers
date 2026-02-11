@@ -3,7 +3,7 @@ layout: post
 title: "Episode 135 - The Foundation"
 date: 2024-10-03 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep801_the_foundation.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep801_the_foundation.mp3"
   file_size: 19554039
   duration: 1388
   guid: "d7f429b7-1bbb-49ba-a6ae-b79d1f1c3999"

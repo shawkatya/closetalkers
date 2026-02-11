@@ -3,7 +3,7 @@ layout: post
 title: "Episode 33 - The Fixup"
 date: 2022-05-26 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep333_the_fixup.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep333_the_fixup.mp3"
   file_size: 25781328
   duration: 1833
   guid: "6b6d803c-2d8b-48af-874d-d0ce76fdc0a4"

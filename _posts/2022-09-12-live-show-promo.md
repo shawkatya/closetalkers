@@ -3,7 +3,7 @@ layout: post
 title: "Live Show Promo"
 date: 2022-09-12 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/live_promo.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/live_promo.mp3"
   file_size: 2017722
   duration: 135
   guid: "615798fa-55e9-4bc8-ae7d-b0f4a9625cd9"

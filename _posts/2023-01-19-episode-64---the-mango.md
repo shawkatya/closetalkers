@@ -3,7 +3,7 @@ layout: post
 title: "Episode 64 - The Mango"
 date: 2023-01-19 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep564_the_mango.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep564_the_mango.mp3"
   file_size: 20789426
   duration: 1476
   guid: "d6b7991a-9379-4b40-87dc-aa0bac75cd56"

@@ -3,7 +3,7 @@ layout: post
 title: "Episode 102 - The Kiss Hello"
 date: 2023-10-19 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep602_the_kiss_hello.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep602_the_kiss_hello.mp3"
   file_size: 30091117
   duration: 2140
   guid: "42ba5e66-5fce-436a-80de-75e02772d382"

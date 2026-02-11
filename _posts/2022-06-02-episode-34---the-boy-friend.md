@@ -3,7 +3,7 @@ layout: post
 title: "Episode 34 - The Boy Friend"
 date: 2022-06-02 13:00:00 -0500
 podcast:
-  audio_url: "https://shawkatya.github.io/closetalkers/_assets/ep334_the_boy_friend.mp3"
+  audio_url: "https://ia600508.us.archive.org/28/items/ep923_the_finale/ep334_the_boy_friend.mp3"
   file_size: 34314246
   duration: 2442
   guid: "769efd74-974c-407d-8e31-b164cd4eaef9"
