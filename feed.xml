@@ -21,8 +21,8 @@
     <itunes:explicit>{{ site.podcast.explicit | default: 'false' }}</itunes:explicit>
     <itunes:type>{{ site.podcast.type }}</itunes:type>
     {% for category in site.podcast.categories %}
-    <itunes:category text="{{ category.name }}">
-      {% if category.subcategory %}<itunes:category text="{{ category.subcategory }}"/>{% endif %}
+    <itunes:category text="{{ category.name | xml_escape }}">
+      {% if category.subcategory %}<itunes:category text="{{ category.subcategory | xml_escape }}"/>{% endif %}
     </itunes:category>
     {% endfor %}
     
