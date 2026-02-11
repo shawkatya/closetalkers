@@ -1,11 +1,10 @@
 ---
-layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.podcast.title }}</title>
-    <link>{{ site.url }}{{ site.baseurl }}</link>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
     <atom:link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self" type="application/rss+xml"/>
     <language>{{ site.podcast.language }}</language>
     <copyright>{{ site.podcast.copyright }}</copyright>
