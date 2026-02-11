@@ -16,4 +16,3 @@ podcast:
 ---
 Inka dink a bottle of ink, the cork fell out and this episode stinks. Seinfeld's, not ours.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep211_the_statue.mp3)

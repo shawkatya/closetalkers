@@ -16,4 +16,3 @@ podcast:
 ---
 Derek and Katy read lines from this Emmy-winning episode and veer off in increasingly large tangents.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep333_the_fixup.mp3)

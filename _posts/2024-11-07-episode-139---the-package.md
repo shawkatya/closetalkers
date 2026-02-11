@@ -16,4 +16,3 @@ podcast:
 ---
 The gang's all here, doing things and going places. We talk about mukbangs.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep805_the_package.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 What is Popeyes favourite food? Did the cat open the door? Is this one of the top Seinfeld episodes?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep906_the_merv_griffin_show.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 Let's talk about sex baby, let's talk about mangoes please, let's talk about all the faking and the plantains that may be.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep564_the_mango.mp3)

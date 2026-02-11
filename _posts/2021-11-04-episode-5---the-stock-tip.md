@@ -16,4 +16,3 @@ podcast:
 ---
 Jerry and George get a hot stock tip, a bunch of awkward situations happen, and it wraps up in a tidy 23 minutes.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep105_the_stock_tip.mp3)

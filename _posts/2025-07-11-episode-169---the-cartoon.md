@@ -16,4 +16,3 @@ podcast:
 ---
 We liked this episode about a Ziggy cartoon? Elaine is changing flat tires? Who has change anymore?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep913_the_cartoon.mp3)

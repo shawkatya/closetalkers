@@ -16,4 +16,3 @@ podcast:
 ---
 Frank sent 16 of his own men to the latrines that night. Katy and Derek debate how many pots one needs. You never need to see the vomit.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep806_the_fatigues.mp3)

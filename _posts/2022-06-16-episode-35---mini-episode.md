@@ -16,4 +16,3 @@ podcast:
 ---
 Derek records a solo mini episode, and makes Katy listen to a monologue a dozen times. Back to regular episodes next week.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep335_mini.mp3)

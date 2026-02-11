@@ -16,4 +16,3 @@ podcast:
 ---
 The worst episode of Seinfeld ever, or pretty good? Is it chest hair or pubes? What do you do with the stumps?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep821_the_muffin_tops.mp3)

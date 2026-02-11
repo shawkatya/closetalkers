@@ -16,4 +16,3 @@ podcast:
 ---
 Is there a market for "cool S" car decals? You don't hear much about God these days anymore. Kramer gets gonorrhea.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep916_the_burning.mp3)

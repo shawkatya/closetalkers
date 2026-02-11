@@ -16,4 +16,3 @@ podcast:
 ---
 Frank has a lot going on on the top floor. George doesn't want kasha in bed. Derek refuses to believe Canada Post is responsible for postal codes.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep603_the_doorman.mp3)

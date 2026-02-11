@@ -16,4 +16,3 @@ podcast:
 ---
 You can't have sex in a bucket. Katy wants bro instagram chefs to pour sauce on themselves. Derek's English Patient is the Sixth Sense.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep817_the_english_patient.mp3)

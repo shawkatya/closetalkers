@@ -16,4 +16,3 @@ podcast:
 ---
 We claim not to like this episode, then spend 20 minutes recounting parts we liked. Bookstore, rickshaw, makeout, and Jerry is also there.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep917_the_bookstore.mp3)

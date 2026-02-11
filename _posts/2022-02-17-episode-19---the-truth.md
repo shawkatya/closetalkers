@@ -16,4 +16,3 @@ podcast:
 ---
 Derek and Katy talk hoodies, Drag Race, Instagram, and eventually about this episode, which is about what it deserves.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep319_the_truth.mp3)

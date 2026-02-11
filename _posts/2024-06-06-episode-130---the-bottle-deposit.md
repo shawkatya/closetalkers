@@ -16,4 +16,3 @@ podcast:
 ---
 Katy's mic malfunctions and we hardly miss her. Derek reminds us of his deranged past as a bottle depositor.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep720_the_bottle_deposit.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 There was a low rumble, a metallic squink, and a baffling galonk. Katy reconsiders the Bic Round Stic. Derek's nails don't grow like everyone else's.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep802_the_soulmate.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 We google a great many things about Seinfeld's The Virgin but we swear it's not boring to listen to.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep449_the_virgin.mp3)

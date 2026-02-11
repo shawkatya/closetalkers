@@ -16,4 +16,3 @@ podcast:
 ---
 It's better than Ghandi. Somehow we get into conservative mouthpieces and "reversaries". Susan chooses the chicken.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep721_the_wait_out.mp3)

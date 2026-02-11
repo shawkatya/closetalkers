@@ -16,4 +16,3 @@ podcast:
 ---
 Where is Shelley? We discuss the superhunks (again),public transit and why you would ever take it out.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep579_the_stand_in.mp3)

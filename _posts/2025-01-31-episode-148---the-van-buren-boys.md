@@ -16,4 +16,3 @@ podcast:
 ---
 Shallow Hal, Envy, Del Taco and also a good Jerry episode. The Van Buren Boys never hassle their own kind.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep814_the_van_buren_boys.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 This episode goes off the rails and never comes back. Nothing we say can be used against us in a court of law.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep716_the_doll.mp3)

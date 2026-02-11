@@ -16,4 +16,3 @@ podcast:
 ---
 We talk cleaners with offensive statues, cleaners with crumbling architecture, olives, and peeing in the shower (it's fine).
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep580_the_wife.mp3)

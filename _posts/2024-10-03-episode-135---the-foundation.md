@@ -16,4 +16,3 @@ podcast:
 ---
 We try to remember how to podcast and more importantly, whether Katy has seen any of the Star Trek movies (she hasn't).
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep801_the_foundation.mp3)

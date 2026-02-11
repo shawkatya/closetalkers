@@ -16,4 +16,3 @@ podcast:
 ---
 Susan expires. George rejoices. Jerry dates himself. Kramer says hello. Elaine is also there.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep722_the_invitations.mp3)

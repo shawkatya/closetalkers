@@ -16,4 +16,3 @@ podcast:
 ---
 We begin the series for real, discussing the pilot episode, "The Seinfeld Chronicles". What happened to the dog?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep101_the_seinfeld_chronicles.mp3)

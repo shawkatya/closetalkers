@@ -16,4 +16,3 @@ podcast:
 ---
 Derek believes a sponge will always get used. Katy had to do a hard target search for eye wipes. Kramer's walk is not worth talking about.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep709_the_sponge.mp3)

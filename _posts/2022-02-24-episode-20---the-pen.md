@@ -16,4 +16,3 @@ podcast:
 ---
 We hit up The Pines of Mar Gables Phase II, visiting Morty and Helen Seinfeld to talk about pens and abutments.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep320_the_pen.mp3)

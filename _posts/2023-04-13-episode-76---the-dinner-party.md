@@ -16,4 +16,3 @@ podcast:
 ---
 Katy wants to know why she wasn't invited to the wine enemas, Derek tells everyone in Cuba he loves them, and the gang doesn't go to a dinner party.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep576_the_dinner_party.mp3)

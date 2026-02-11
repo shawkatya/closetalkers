@@ -16,4 +16,3 @@ podcast:
 ---
 We mention at least four actresses who aren't in this episode, propose an alternative to capital punishment and talk food and breakups.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep914_the_strongbox.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 Raisins are different. Gorp is not to be shared. And how much loving DOES a normal couple need? Jerry and George's pilot is shot and killed.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep462_the_pilot_1_2.mp3)

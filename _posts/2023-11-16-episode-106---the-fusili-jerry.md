@@ -16,4 +16,3 @@ podcast:
 ---
 Warning: This episode is about ass. We say it a lot. Fusili, blepharoplasty, vanity and hilarity ensue.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep606_the_fusili_jerry.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 Jerry ditches Elaine in coach, it's a good Kramer dialogue episode and Derek makes Katy feel bad for Hulk Hogan.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep451_the_airport.mp3)

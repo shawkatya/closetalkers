@@ -16,4 +16,3 @@ podcast:
 ---
 We could go the tomato route, but instead we crowd into the changeroom at Barney's.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep695_the_secretary.mp3)

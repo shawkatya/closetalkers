@@ -16,4 +16,3 @@ podcast:
 ---
 Katy takes a sip of Derek's drink off-mic and it nearly ends the podcast. Derek rates the superhunks. The four get into shenanigans.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep328_the_alternate_side.mp3)

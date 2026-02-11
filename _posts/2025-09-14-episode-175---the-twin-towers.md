@@ -16,4 +16,3 @@ podcast:
 ---
 We offer a table read of the Seinfeld spec script "The Twin Towers" and assume no responsibility for how you feel about it.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep919_the_twin_towers.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 We really like this backwards episode. Is it the good Crash or the bad Crash? Derek goes blue talking about the Sixth Sense.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep908_the_betrayal.mp3)

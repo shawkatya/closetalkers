@@ -16,4 +16,3 @@ podcast:
 ---
 Katy wants a steady flow, medium pressure. Derek doesn't know what the other side of cabbage is. And can your pee tell you about your bones?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep715_the_shower_head.mp3)

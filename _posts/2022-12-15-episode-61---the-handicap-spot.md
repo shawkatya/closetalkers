@@ -16,4 +16,3 @@ podcast:
 ---
 We embrace the beauty of silence as Derek tries to recall a classic tale and we draw triangles. Caution for kids listening in, we say "bitches" a bunch of times.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep461_the_handicap_spot.mp3)

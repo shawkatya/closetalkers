@@ -16,4 +16,3 @@ podcast:
 ---
 Thirty episodes in the bag and we still seem so new to this. We eat some Pez, discuss Pez loading techniques and briefly mention the episode.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep331_the_pez_dispenser.mp3)

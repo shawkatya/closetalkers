@@ -16,4 +16,3 @@ podcast:
 ---
 The World Series trophy is trash. Calendars are made up, we say celebrate things whenever you want.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep820_the_millennium.mp3)

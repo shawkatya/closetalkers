@@ -16,4 +16,3 @@ podcast:
 ---
 We perform a table read of the abandoned Seinfeld episode "The Gun/The Bet", written by Larry Charles and deemed not funny enough and too dark to continue production. How many items can we make our child fetch so she's won't hear us say "sex"?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep724_the_gun.mp3)

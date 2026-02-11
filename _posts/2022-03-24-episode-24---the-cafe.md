@@ -16,4 +16,3 @@ podcast:
 ---
 Derek thinks we should have lost this episode, Katy steals lines and forgets her own, Elaine and George have a caper and Jerry is nice?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep324_the_cafe.mp3)

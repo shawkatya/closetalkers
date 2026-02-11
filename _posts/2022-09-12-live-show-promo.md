@@ -15,4 +15,3 @@ podcast:
 ---
 Mark your calendars with a big red star! Wednesday, September 21 at 9pm EST we go live on YouTube to talk closely about The Contest! https://www.youtube.com/channel/UC7q38AKwGsKT0bHV6sSb6ZA
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/live_promo.mp3)

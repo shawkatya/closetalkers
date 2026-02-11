@@ -16,4 +16,3 @@ podcast:
 ---
 Thick does not mean chunk. We keep it short and silly for this terrible episode.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep718_the_wig_master.mp3)

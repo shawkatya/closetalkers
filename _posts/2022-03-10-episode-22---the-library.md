@@ -16,4 +16,3 @@ podcast:
 ---
 We talk sexy book recommendations, the rise and fall of the wedgie, and the many many guests stars of this fine episode.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep322_the_library.mp3)

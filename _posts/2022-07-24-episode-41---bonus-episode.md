@@ -16,4 +16,3 @@ podcast:
 ---
 We screwed up so much, here's a full bonus episode of corrections!
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep441_bonus_episode.mp3)

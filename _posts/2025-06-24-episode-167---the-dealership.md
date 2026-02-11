@@ -16,4 +16,3 @@ podcast:
 ---
 What's dumber than a cyber truck? Two cyber trucks. Derek has strong feelings about the Mexican wave. We eat candy.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep911_the_dealership.mp3)

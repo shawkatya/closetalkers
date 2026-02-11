@@ -16,4 +16,3 @@ podcast:
 ---
 Derek and Katy square off in the battle of the century to find out...whose cereal choices are better. DM us your vote for Katy's or Derek's lists @closetalkerspodcast on Instagram!
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep723_summer_bonus.mp3)

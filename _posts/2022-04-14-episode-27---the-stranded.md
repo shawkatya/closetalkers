@@ -16,4 +16,3 @@ podcast:
 ---
 The butterfly pea tequilas are flowing, and Derek and Katy discuss parties, cough remedies and whether Mr. Long Island got what Jerry paid for.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep327_the_stranded.mp3)

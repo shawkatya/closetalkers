@@ -16,4 +16,3 @@ podcast:
 ---
 Derek and Katy do not like this episode. Derek and Katy talk about killer tomatoes instead. Derek and Katy sing a song from Drag Race.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep604_the_jimmy.mp3)

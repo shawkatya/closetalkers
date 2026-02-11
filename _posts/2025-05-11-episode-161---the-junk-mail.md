@@ -16,4 +16,3 @@ podcast:
 ---
 Don't even bother watching this Seinfeld episode, we cover the few good parts and talk about Certs.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep905_the_junk_mail.mp3)

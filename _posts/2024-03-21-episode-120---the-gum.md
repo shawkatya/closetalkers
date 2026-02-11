@@ -16,4 +16,3 @@ podcast:
 ---
 Where's Susan? George is worrying an old friend with his behaviour, and everyone else is worried about Lloyd Braun. Elaine's shirt could be wetter.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep710_the_gum.mp3)

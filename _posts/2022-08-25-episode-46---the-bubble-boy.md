@@ -16,4 +16,3 @@ podcast:
 ---
 We dive deep into voicemail, Derek calls out attached earlobes, and we only like Smarmy Confident George if he's directing it at a jerk.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep446_the_bubble_boy.mp3)

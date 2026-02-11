@@ -16,4 +16,3 @@ podcast:
 ---
 Laughs do not equal a good episode. Our song might not be what you'd expect.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep807_the_checks.mp3)

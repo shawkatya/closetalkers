@@ -16,4 +16,3 @@ podcast:
 ---
 It's a summer clip show!
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep693_bonus_sunny.mp3)

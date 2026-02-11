@@ -16,4 +16,3 @@ podcast:
 ---
 We say penis 13 times and discuss aliases and Audrey/Aubrey/Marjorie's nose job.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep326_the_nose_job.mp3)

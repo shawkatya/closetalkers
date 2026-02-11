@@ -16,4 +16,3 @@ podcast:
 ---
 Jerry, George and Elaine all do the same job for a single day, and Vulture.com lose their minds over it.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep457_the_old_man.mp3)

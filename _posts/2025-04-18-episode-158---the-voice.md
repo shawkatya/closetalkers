@@ -16,4 +16,3 @@ podcast:
 ---
 Katy asks the tough questions: what about the unibrow? Derek says no to everything. La la la.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep902_the_voice.mp3)

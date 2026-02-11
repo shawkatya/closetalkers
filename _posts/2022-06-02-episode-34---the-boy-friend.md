@@ -16,4 +16,3 @@ podcast:
 ---
 We attempt to solve the age-old question that nobody has asked, "If you plug an old phone into a landline jack with no home phone service, can you still call 911?" And then some stuff about Keith Hernandez, unemployment, spitting on Newman, Elaine and jealousy, moving furniture, and a tall woman.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep334_the_boy_friend.mp3)

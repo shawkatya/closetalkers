@@ -16,4 +16,3 @@ podcast:
 ---
 A toupee, a lie, a pair of glasses, and a scofflaw in that order. New York is real and it's full of diapers and delivery boxes.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep699_the_scofflaw.mp3)

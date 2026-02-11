@@ -16,4 +16,3 @@ podcast:
 ---
 Elaine tries to write catalogue copy and defends her alarm clock and microwave skills. Katy asks Derek to banter.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep705_the_hot_tub.mp3)

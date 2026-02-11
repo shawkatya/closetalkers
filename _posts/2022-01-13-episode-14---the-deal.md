@@ -16,4 +16,3 @@ podcast:
 ---
 Just like popcorn and beer, Jerry and Elaine do not belong together. Warning: This episode mentions sex. *gasp!*
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep214_the_deal.mp3)

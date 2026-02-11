@@ -16,4 +16,3 @@ podcast:
 ---
 Glamour?! A very special Episode 50 is out! Derek and Katy go live on YouTube in a special extra-long episode about the best sitcom episode of all time.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep450_the_contest.mp3)

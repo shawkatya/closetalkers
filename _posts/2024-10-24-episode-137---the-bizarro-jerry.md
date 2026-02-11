@@ -16,4 +16,3 @@ podcast:
 ---
 Derek's biggest fear is accidentally ordering lobster at a restaurant. Katy wants to know the distance in time. Elaine isn't in the mirror world.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep803_the_bizarro_jerry.mp3)

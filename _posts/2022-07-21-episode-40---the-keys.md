@@ -16,4 +16,3 @@ podcast:
 ---
 Key brothers share a sacred bond. We discuss bones, planes, Murphy Brown and other things we have no business talking about.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep340_the_keys.mp3)

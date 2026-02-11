@@ -16,4 +16,3 @@ podcast:
 ---
 Derek lectures us on theism, but concludes by suggesting we read "Nietzche's book over there" for the complete story. George runs from a fire and Katy misunderstands an accident.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep582_the_fire.mp3)

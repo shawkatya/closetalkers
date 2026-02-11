@@ -16,4 +16,3 @@ podcast:
 ---
 Jerry minds a dog, George and Elaine find that they are friends-in-law, and that's about it.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep321_the_dog.mp3)

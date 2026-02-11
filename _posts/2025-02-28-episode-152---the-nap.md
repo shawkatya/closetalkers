@@ -16,4 +16,3 @@ podcast:
 ---
 We pitch ergonomic furniture store names. Katy likes a Kramer joke and Derek doesn't like his swimming style. George is a cozy boy.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep818_the_nap.mp3)

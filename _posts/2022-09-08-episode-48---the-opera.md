@@ -16,4 +16,3 @@ podcast:
 ---
 We have a lot of laughs talking about this dark Seinfeld episode about the opera, and tease something very special for episode 50.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep448_the_opera.mp3)

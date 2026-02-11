@@ -16,4 +16,3 @@ podcast:
 ---
 Hello and welcome to this episode. Why don't you just tell me what you thought of it? We discuss driving positions, buffers and ballzookas.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep708_the_pool_guy.mp3)

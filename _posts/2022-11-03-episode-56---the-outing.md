@@ -16,4 +16,3 @@ podcast:
 ---
 Can you get outed if you were never in? We weigh in on this controversial episode, but mostly just rate the world leader anti-hunks.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep456_the_outing.mp3)

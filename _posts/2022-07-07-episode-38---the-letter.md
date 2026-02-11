@@ -16,4 +16,3 @@ podcast:
 ---
 Welcome to Art Talk, our new podcast about art. Someone will have to explain it to George, and then explain the explanation.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep338_the_letter.mp3)

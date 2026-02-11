@@ -16,4 +16,3 @@ podcast:
 ---
 Jerry offends a nice old lady, plays daytime ball and we show our appreciation for Ginuwine and Evgeni Plushenko. www.youtube.com/watch?v=wMIErbpN_ys
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep207_the_pony_remark.mp3)

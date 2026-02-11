@@ -16,4 +16,3 @@ podcast:
 ---
 Sucking on pits and nuts, this episode is not really about a doodle. At the end we take a hard turn into energy politics!
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep605_the_doodle.mp3)

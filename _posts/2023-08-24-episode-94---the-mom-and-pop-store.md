@@ -16,4 +16,3 @@ podcast:
 ---
 Mr. Pitt gets to briefly live his dream, George drives Mr. Voight's car, Jerry doesn't want to be a cowboy and Elaine's next stop is Pottersville.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep694_mom_and_pop.mp3)

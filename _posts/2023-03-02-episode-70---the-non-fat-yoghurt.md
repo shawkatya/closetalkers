@@ -16,4 +16,3 @@ podcast:
 ---
 This time Katy's mic is off, but we still nail it. Derek mentions an outtake and never delivers, and claims he can eat a whole onion, fast.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep570_the_nonfat_yoghurt.mp3)

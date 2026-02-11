@@ -16,4 +16,3 @@ podcast:
 ---
 Tuna and tomato on a cinnamon raisin bagel with a chocolate raspberry coffee, please! The Cadillac changes hands and we stare at a map.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep812_the_money.mp3)

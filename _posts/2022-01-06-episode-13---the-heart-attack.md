@@ -16,4 +16,3 @@ podcast:
 ---
 If George wanted ice cream so badly, why did he throw it away? Elaine's tongue gets some attention. Bonus ASMR for the weirdos.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep213_the_heart_attack.mp3)

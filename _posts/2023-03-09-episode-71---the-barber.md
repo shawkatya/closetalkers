@@ -16,4 +16,3 @@ podcast:
 ---
 We discover the true origin of the Super Mario Brothers, and get a robot to rank Seinfeld, while Jerry tries to cheat on his barber.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep571_the_barber.mp3)

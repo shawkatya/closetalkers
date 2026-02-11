@@ -16,4 +16,3 @@ podcast:
 ---
 Rhode Island are never contenders. We appreciate a classic Miss America performance.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep685_the_chaperone.mp3)

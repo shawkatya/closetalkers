@@ -16,4 +16,3 @@ podcast:
 ---
 Pickleball culture is out of control. Jerry fails successfully at the switch. Katy tries to guess where the name is real or not. TW: Eating disorders are mentioned in this episode.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep697_the_switch.mp3)

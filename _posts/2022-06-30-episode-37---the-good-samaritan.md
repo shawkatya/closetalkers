@@ -16,4 +16,3 @@ podcast:
 ---
 Jerry ends up dating a sociopath who sideswiped a car. George has an affair with a sociopath's wife. Derek and Katy try to figure out some geography with the help of an old tune.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep337_the_good_samaritan.mp3)

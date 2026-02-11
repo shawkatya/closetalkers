@@ -16,4 +16,3 @@ podcast:
 ---
 We take a break, we have a KitKat, and some other tasty and not so tasty treats in this summer bonus episode. Lots of chewing and eating noises, beware.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep692_bonus.mp3)

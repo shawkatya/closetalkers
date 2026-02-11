@@ -16,4 +16,3 @@ podcast:
 ---
 All we want are doors to the floor. George wants to postpone to the first day of Spring. Kramer spills a latte.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep702_the_postponement.mp3)

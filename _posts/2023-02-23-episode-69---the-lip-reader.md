@@ -16,4 +16,3 @@ podcast:
 ---
 We're not playing egg badminton here, we're discussing party etiquette. George eats a sundae.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep569_the_lip_reader.mp3)

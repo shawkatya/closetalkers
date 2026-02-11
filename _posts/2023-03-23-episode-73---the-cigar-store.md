@@ -16,4 +16,3 @@ podcast:
 ---
 We talk speech recognition again, reminisce about giving away furniture, and like the George storyline of this iffy episode.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep573_the_cigar_store.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 They may not be Amish but they are irritating. He had a polyp on his duodenum. Derek contemplates career options.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep918_the_frogger.mp3)

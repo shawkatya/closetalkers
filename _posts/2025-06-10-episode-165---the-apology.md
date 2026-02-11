@@ -16,4 +16,3 @@ podcast:
 ---
 Derek can't fathom a shower without washing his hair. Katy darn near pukes from tub soup. George doesn't get an apology.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep909_the_apology.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 We debate the merits of white wine, exotic fruits and just a bit about this so-so episode.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep460_the_smelly_car.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 We talk about this great episode, argue about land lines, yada yada yada, that's what she said.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep819_the_yada_yada.mp3)

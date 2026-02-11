@@ -16,4 +16,3 @@ podcast:
 ---
 You gotta support the team. This devolves into a hockey gossip podcast with a sidebar into butt wiping.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep608_the_facepainter.mp3)

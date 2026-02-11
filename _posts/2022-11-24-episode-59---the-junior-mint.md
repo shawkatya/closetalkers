@@ -16,4 +16,3 @@ podcast:
 ---
 Jerry never considers the name Regina. Katy remembers a time when you'd be flipping channels it would just be guts. Cam talks yoyos.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep459_the_junior_mint.mp3)

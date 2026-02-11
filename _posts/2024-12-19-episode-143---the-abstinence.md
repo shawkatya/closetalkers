@@ -16,4 +16,3 @@ podcast:
 ---
 Derek says don't eat snow, eat people. Katy thinks cooking makes it less bad. It's an A+ George episode but we barely talk about it.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep809_the_abstinence.mp3)

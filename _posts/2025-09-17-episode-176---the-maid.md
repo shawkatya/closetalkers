@@ -16,4 +16,3 @@ podcast:
 ---
 This is the gem of season 9. We argue what constitutes "downtown". Can kangaroo meat be local in Canada?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep920_the_maid.mp3)

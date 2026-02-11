@@ -16,4 +16,3 @@ podcast:
 ---
 Derek reveals a deep, dark secret, and has never been more disgusted with George.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep444_the_wallet.mp3)

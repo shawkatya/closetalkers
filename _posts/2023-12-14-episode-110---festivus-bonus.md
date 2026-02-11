@@ -16,4 +16,3 @@ podcast:
 ---
 Is nog short for "not egg" in this case? We drink on air for your holiday enjoyment. Warning: Lots of lippy smacky noises.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep610_festivus_bonus.mp3)

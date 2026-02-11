@@ -16,4 +16,3 @@ podcast:
 ---
 Derek and Katy recount stories of their eighth grade school trips because anything is more interesting than this Seinfeld episode about glasses.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep566_the_glasses.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 Katy and Derek do a deep dive on pens and pencils. We learn about Katy's childhood cereal habit.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep686_the_big_salad.mp3)

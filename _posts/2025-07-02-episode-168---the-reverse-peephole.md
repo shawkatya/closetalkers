@@ -16,4 +16,3 @@ podcast:
 ---
 Katy admits to a criminal past. Derek has strong words for the bank. Elaine may act seductively but is she seducing Newman?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep912_the_reverse_peephole.mp3)

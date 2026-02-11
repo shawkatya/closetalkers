@@ -16,4 +16,3 @@ podcast:
 ---
 Derek makes up for last week with a Werner Herzog impression. We discuss whether passing along mail for a previous resident is worth it. George's date was going to help everyone and he blows it.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep454_the_visa.mp3)

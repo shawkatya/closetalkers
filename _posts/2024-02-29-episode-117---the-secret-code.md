@@ -16,4 +16,3 @@ podcast:
 ---
 Take Part in the fun! Elaine is obsessed with a man who doesn't remember her, and George reveals his secret to Jacopo's mama.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep707_the_secret_code.mp3)

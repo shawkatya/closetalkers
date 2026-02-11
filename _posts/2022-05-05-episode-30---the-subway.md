@@ -16,4 +16,3 @@ podcast:
 ---
 The four ride the subway to Coney Island, to the bookies, to a wedding, and to ruin. Derek and Katy discuss future podcast possibilities.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep330_the_subway.mp3)

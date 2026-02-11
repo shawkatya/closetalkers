@@ -16,4 +16,3 @@ podcast:
 ---
 What else is there to say? We talk about the finale of Seinfeld, license plates and the future. Thanks for listening.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep923_the_finale.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 We're a napkin-positive household. George is bad and Katy likes it.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep804_the_little_kicks.mp3)

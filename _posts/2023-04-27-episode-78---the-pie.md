@@ -16,4 +16,3 @@ podcast:
 ---
 Poppy is sloppy, it's Elaine's butt in the window, George's suit swooshes and we love gravy.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep578_the_pie.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 We alienate our American listeners, Donna Chang leads everyone on, and Derek doesn't even think Larry David deserves mention.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep688_the_chinese_woman.mp3)

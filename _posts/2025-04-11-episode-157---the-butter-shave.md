@@ -16,4 +16,3 @@ podcast:
 ---
 Damn you Seinfeld, you useless pustule. Katy wants Puddy to tell her to go to hell.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep901_the_butter_shave.mp3)

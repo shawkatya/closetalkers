@@ -16,4 +16,3 @@ podcast:
 ---
 This can only mean one thing - George is dead. Elaine's prank backfires and we describe how to steal a Ford Ranger.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep712_the_caddy.mp3)

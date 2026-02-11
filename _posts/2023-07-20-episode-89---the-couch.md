@@ -16,4 +16,3 @@ podcast:
 ---
 Poppie micturates on Jerry's couch. Tipping culture is fraught, and in the end we didn't tip the guys because they didn't come back the next day. Also it's an abortion episode.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep689_the_couch.mp3)

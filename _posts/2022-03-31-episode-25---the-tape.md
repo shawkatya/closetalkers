@@ -16,4 +16,3 @@ podcast:
 ---
 A mysterious woman leaves a saucy message on Jerry's tape recorder, George wears a cowboy hat and Derek takes off a sock.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep325_the_tape.mp3)

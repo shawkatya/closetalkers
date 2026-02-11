@@ -16,4 +16,3 @@ podcast:
 ---
 She scooped the niblets. Katy identifies with Elaine as a pyjama-clad, neighbour-yeller. Derek appreciates knowing where you are and what you're doing. We discuss Mad About You.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep711_the_engagement.mp3)

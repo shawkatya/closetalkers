@@ -16,4 +16,3 @@ podcast:
 ---
 We bring you facts and arguments about the entirety of Seinfeld.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep921_funfacts.mp3)

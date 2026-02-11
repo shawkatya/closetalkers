@@ -16,4 +16,3 @@ podcast:
 ---
 It is a hard G or a soft G? Are those the ones that go around mutilating squirrels? Do you peek in the cabinet? Derek will if it's obvious, Katy will if you're weird.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep574_the_conversion.mp3)

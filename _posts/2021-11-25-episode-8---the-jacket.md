@@ -16,4 +16,3 @@ podcast:
 ---
 How much was the jacket? Why didn't Jerry try to fix it? Why can't we figure out which way is up or down on the microphone gain?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep208_the_jacket.mp3)

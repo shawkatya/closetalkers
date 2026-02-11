@@ -16,4 +16,3 @@ podcast:
 ---
 Elaine tries to recruit to her team. Jerry watches Melrose. We debate pointy heads.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep601_the_beard.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 Here's to feeling good all the time. Katy tries out her Mandarin and then promptly loses her voice. Derek tells an incredible bar story.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep567_the_sniffing_accountant.mp3)

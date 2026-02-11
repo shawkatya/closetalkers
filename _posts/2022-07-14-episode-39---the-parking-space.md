@@ -16,4 +16,3 @@ podcast:
 ---
 Katy was going to parallel park head first but thought better of it. Derek makes us all wait while he sets up a sick burn. George fights over a parking spot.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep339_the_parking_space.mp3)

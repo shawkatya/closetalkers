@@ -16,4 +16,3 @@ podcast:
 ---
 George rage quits, Elaine schemes, Jerry loses money, Kramer washes concrete, Derek discusses underwear and Katy silently searches for a book. TW: Please skip from around 9 minutes to after 10 to avoid discussion of suicide.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep212_the_revenge.mp3)

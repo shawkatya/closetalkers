@@ -16,4 +16,3 @@ podcast:
 ---
 It's a festivus miracle, a bonus episode! Warning: this episode contains lots of misophonic ASMR stuff, so beware.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep463_festivus.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 Does surviving a shipwreck give you perks for life? Does taking dog medicine make you a dog? Is Elaine still dumb?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep810_the_andrea_doria.mp3)

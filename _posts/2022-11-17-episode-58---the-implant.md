@@ -16,4 +16,3 @@ podcast:
 ---
 Our hubris in claiming we are perfect comes back to bite us as Derek's microphone dies while we discuss fake boobs.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep458_the_implant.mp3)

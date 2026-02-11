@@ -16,4 +16,3 @@ podcast:
 ---
 We go live for our 100th episode and Seinfeld's 100th episode clip show! We struggle with audio, we talk over the episode, we have a nice fun time.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep600_the_best.mp3)

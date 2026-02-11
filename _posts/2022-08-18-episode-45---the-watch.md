@@ -16,4 +16,3 @@ podcast:
 ---
 Elaine sings with a stranger, George begs, Jerry bargains, and we bask in the glory of Beyond Belief.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep445_the_watch.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 The four lose the car. The four find the car. We're calling them the four now.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep323_the_parking_garage.mp3)

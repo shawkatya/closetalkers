@@ -16,4 +16,3 @@ podcast:
 ---
 Derek thinks Katy uses too many mugs. Katy is pro-canning. Larry David's worst story idea sees George providing a chair.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep703_the_maestro.mp3)

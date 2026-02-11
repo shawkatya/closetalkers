@@ -16,4 +16,3 @@ podcast:
 ---
 This used to be a Seinfeld podcast. We discuss incels, optical illusions and Instagram.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep811_the_little_jerry.mp3)

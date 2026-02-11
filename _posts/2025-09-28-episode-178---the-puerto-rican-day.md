@@ -16,4 +16,3 @@ podcast:
 ---
 Derek can't admit he's wrong about duodenum. Katy can't handle vomit. The gang encounters some roadblocks.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep922_the_puerto_rican_day.mp3)

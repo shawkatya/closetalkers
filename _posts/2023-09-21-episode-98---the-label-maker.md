@@ -16,4 +16,3 @@ podcast:
 ---
 Tim Whatley regifts a label maker, the second most wonderful office equipment. George eats a dark pickle. We fix Canadian football. Ukraine is not weak.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep698_the_label_maker.mp3)

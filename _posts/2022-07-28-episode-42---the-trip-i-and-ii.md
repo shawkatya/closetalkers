@@ -16,4 +16,3 @@ podcast:
 ---
 This episode is a trip, which is neither dark nor funny (Seinfeld's, not ours).
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep442_the_trip.mp3)

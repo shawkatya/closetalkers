@@ -16,4 +16,3 @@ podcast:
 ---
 Elaine covets a bike, George claims a name, Kramer asked for Dijon and Jerry can't solve a mystery. That happens!
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep713_the_seven.mp3)

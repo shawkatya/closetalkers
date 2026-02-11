@@ -16,4 +16,3 @@ podcast:
 ---
 Jerry and Elaine deal with duelling embarassments, George wins back Susan with penicillin and we say penis another 9 times.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep452_the_pick.mp3)

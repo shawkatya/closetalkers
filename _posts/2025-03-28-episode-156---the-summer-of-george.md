@@ -16,4 +16,3 @@ podcast:
 ---
 Maybe they are salamis up there. Maybe what this woman needs is brother husbands. Katy is not going to wear a "Team Pubes" shirt.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep822_the_summer_of_george.mp3)

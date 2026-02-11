@@ -16,4 +16,3 @@ podcast:
 ---
 It's a quick one! Elaine looks great. George exercises the gaskets.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep915_the_wizard.mp3)

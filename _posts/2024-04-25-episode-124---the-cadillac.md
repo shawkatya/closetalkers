@@ -16,4 +16,3 @@ podcast:
 ---
 Marisa Tomei loves short, stocky, funny bald men. Elaine loses her mind. Jerry is a very good boy. Derek thinks he is not related to his cousins.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep714_the_cadillac.mp3)

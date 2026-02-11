@@ -16,4 +16,3 @@ podcast:
 ---
 We get censored this episode, and it's not for saying Soup Nazi too much. George is disgusted with Jerry. Kramer is roughed up by toughs.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep706_the_soup_nazi.mp3)

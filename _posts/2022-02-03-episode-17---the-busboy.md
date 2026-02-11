@@ -16,4 +16,3 @@ podcast:
 ---
 George gets someone fired, Elaine's room is a flea market, Derek knocks out a friend's teeth, and Katy already bought you a bus ticket.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep217_the_busboy.mp3)

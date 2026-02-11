@@ -16,4 +16,3 @@ podcast:
 ---
 Is The Pitch/The Ticket a good episode? How do you wipe with corn cobs? Can you recover from vomiting on someone?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep443_the_pitch_the_ticket.mp3)

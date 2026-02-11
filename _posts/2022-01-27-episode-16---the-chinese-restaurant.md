@@ -16,4 +16,3 @@ podcast:
 ---
 Let's order from the Chinese food restaurant, let's order from the Greek food restaurant, let's order from the Thai food restaurant.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep216_the_chinese_restaurant.mp3)

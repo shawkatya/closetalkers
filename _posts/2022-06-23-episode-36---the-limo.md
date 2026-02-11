@@ -16,4 +16,3 @@ podcast:
 ---
 We're back with a regular episode! George's car breaks down on his way to pick up Jerry, and they masquerade as O'Brien and Murphy with unexpected results.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep336_the_limo.mp3)

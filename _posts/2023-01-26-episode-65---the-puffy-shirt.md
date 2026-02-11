@@ -16,4 +16,3 @@ podcast:
 ---
 Gaseous bologna, bananas in jello, and a shirt that was the third funniest thing in this episode.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep565_the_puffy_shirt.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 George buys a sweater with a red dot. Derek tries on hats. Katy laughs.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep329_the_red_dot.mp3)

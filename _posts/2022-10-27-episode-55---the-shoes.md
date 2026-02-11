@@ -16,4 +16,3 @@ podcast:
 ---
 We debate what terrible things might have happened to our food, and Derek has lots to say about cleavage.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep455_the_shoes.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 Too much happens in the span of two days. George winks constantly. We agree head-to-toe doesn't make sense.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep704_the_wink.mp3)

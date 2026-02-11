@@ -16,4 +16,3 @@ podcast:
 ---
 You either are a Kathy or you're not. Kathy and Cameron discuss names, Khan, trunks, daylight savings and a backless tuxedo.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep815_the_susie.mp3)

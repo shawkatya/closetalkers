@@ -16,4 +16,3 @@ podcast:
 ---
 We barely discuss this dud of an episode, and go on a tangent about roommates, theft, and defunct restaurants.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep103_the_robbery.mp3)

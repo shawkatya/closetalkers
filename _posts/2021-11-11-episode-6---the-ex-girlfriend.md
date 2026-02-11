@@ -16,4 +16,3 @@ podcast:
 ---
 Jerry dates George's annoying ex-girlfriend and we rank melons, no pun intended.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep206_the_ex_girlfriend.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 Jerry's cheque-cashing sends his Nana into the mean streets for the first time in 20 years and there are three other storylines to boot.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep687_the_pledge_drive.mp3)

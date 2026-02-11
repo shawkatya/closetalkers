@@ -16,4 +16,3 @@ podcast:
 ---
 Stand up is bread. In this double episode where a lot happens and everyone shows up, we spend (y)our time talking about keys.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep581_the_raincoats.mp3)

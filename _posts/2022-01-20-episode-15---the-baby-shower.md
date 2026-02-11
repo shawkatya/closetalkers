@@ -16,4 +16,3 @@ podcast:
 ---
 George keeps a shirt and some feelings for too long, and Russian caricatures crash a nighttime baby shower.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep215_the_baby_shower.mp3)

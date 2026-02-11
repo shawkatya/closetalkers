@@ -16,4 +16,3 @@ podcast:
 ---
 We cut so much of this episode out, you might say it was bris'd.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep568_the_bris.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 George and Jerry get massages, Derek explains a preference and Katy gets a surprise.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep318_the_note.mp3)

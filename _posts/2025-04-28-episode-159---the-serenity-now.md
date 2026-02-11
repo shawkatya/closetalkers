@@ -16,4 +16,3 @@ podcast:
 ---
 Derek doesn't care about the glass vase with sticks. What's wrong with Jerry's leg?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep903_the_serenity_now.mp3)

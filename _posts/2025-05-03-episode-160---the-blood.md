@@ -16,4 +16,3 @@ podcast:
 ---
 Once around the block, three times a week, and I eat a plum every morning. We hate this episode.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep904_the_blood.mp3)

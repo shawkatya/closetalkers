@@ -16,4 +16,3 @@ podcast:
 ---
 We're in a Taylor Ham scenario. Katy maintains overhand would get the rye up to the third floor. Derek tries not bring up butt chugging but it happens anyway. We all blame Rusty.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep711_the_rye.mp3)

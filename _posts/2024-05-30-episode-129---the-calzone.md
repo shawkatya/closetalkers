@@ -16,4 +16,3 @@ podcast:
 ---
 Warning: This episode is pretty gassy. Jerry Seinfeld thinks toxic masculinity is knowing how to order a drink. Derek doesn't believe blond hair and brown eyes is a thing.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep719_the_calzone.mp3)

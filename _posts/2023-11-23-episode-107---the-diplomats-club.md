@@ -16,4 +16,3 @@ podcast:
 ---
 Repeat after me: you can't have sex in the lobby of a hotel. And what does it mean if you say you have a pen in your ear? George is a terrible person.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep607_the_diplomats_club.mp3)

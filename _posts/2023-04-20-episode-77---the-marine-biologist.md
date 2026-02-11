@@ -16,4 +16,3 @@ podcast:
 ---
 George is a yellow, and not a marine biologist. Katy trusts Derek, and his impressions are spot on.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep577_the_marine_biologist.mp3)

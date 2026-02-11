@@ -16,4 +16,3 @@ podcast:
 ---
 George wears a redding wing to attack women, Jerry doesn't want Elaine cramping his style, and we debate what mousse is for.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep210_the_apartment.mp3)

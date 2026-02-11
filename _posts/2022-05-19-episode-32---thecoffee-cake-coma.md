@@ -16,4 +16,3 @@ podcast:
 ---
 TW: Throughout this episode, we do talk about self-harm and suicide. Jerry makes moves on a woman whose boyfriend is in a coma, we discuss the finer points of pre- and post-fast dining and all things paranormal.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep332_the_coffee_cake_coma.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 Jerry tries to break up with a friend, and we plan a fun night out next Wednesday. Or is it this Wednesday?
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep104_male_unbonding.mp3)

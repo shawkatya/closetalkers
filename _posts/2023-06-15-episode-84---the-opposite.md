@@ -16,4 +16,3 @@ podcast:
 ---
 Katy's a deli meats gal, because a lot of sins could be hidden in tuna. Derek believes the opposite of eating a tuna sandwich is throwing up a tuna sandwich.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep584_the_opposite.mp3)

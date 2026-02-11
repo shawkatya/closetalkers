@@ -16,4 +16,3 @@ podcast:
 ---
 A pretty good episode about shrimp and comas. We release on Fridays now.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep813_the_comeback.mp3)

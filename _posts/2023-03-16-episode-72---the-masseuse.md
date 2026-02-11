@@ -16,4 +16,3 @@ podcast:
 ---
 Jerry is a terrible person, Elaine loves OJ and we're still chatting about chatbots.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep572_the_masseuse.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 Katy's not a communist but she looks best in drab green. Derek's not a communist but he wrote for the Daily Worker. George goes to Cuba.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep696_the_race.mp3)

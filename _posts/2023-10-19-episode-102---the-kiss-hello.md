@@ -16,4 +16,3 @@ podcast:
 ---
 Elaine's friend leaves her three blocks from home with all her ski gear. George yells at a delicate genius. We are still talking about pointy heads.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep602_the_kiss_hello.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 There was shrinkage. You gotta see the baby. Breathtaking. One of the best episodes of all time and we talk about Idiocracy and the Full Monty.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep583_the_hamptons.mp3)

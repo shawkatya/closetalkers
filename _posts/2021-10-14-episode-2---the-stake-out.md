@@ -16,4 +16,3 @@ podcast:
 ---
 Video stores, paying by cheque, shoulder pads and mild stalking. Ah, the 90s. Katy and Derek talk about Episode 2 of Seinfeld.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep102_the_stake_out.mp3)

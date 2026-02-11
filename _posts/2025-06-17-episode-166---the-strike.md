@@ -16,4 +16,3 @@ podcast:
 ---
 Derek and Katy have a lot of problems with this episode, and you're gonna hear about them.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep910_the_strike.mp3)

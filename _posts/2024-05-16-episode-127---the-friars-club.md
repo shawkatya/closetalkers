@@ -16,4 +16,3 @@ podcast:
 ---
 The Friars Club serves turd burger. Derek has strong feelings about conductors again. Katy's mic was off and no one noticed.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep717_the_friars_club.mp3)

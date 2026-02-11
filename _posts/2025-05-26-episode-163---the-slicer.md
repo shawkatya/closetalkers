@@ -16,4 +16,3 @@ podcast:
 ---
 Katy likes a solid pop. Derek wants a slicer setting between 0 and 1. Elaine could have gotten out in several ways.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep907_the_slicer.mp3)

@@ -16,4 +16,3 @@ podcast:
 ---
 George leaves terrible phone messages. We focus on the stuffing chocolate in your bra and hat parts and less on the other parts.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep209_the_phone_message.mp3)

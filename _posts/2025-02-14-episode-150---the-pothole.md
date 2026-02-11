@@ -16,4 +16,3 @@ podcast:
 ---
 Katy feels like she's being hustled at the dentist. Derek doesn't want to disappoint tooth mommy. Jerry's girlfriend does the perfect revenge.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep816_the_pothole.mp3)

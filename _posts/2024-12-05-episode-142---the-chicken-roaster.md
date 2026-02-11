@@ -16,4 +16,3 @@ podcast:
 ---
 Rat hat. How many Rs in Strawberry? Kramer disgusts us all, including himself.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep808_the_chicken_roaster.mp3)

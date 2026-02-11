@@ -16,4 +16,3 @@ podcast:
 ---
 Did Derek record this episode from inside a garbage can? No, he just turned off his mic before we started. The gang tries to see a movie together.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep453_the_movie.mp3)

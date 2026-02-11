@@ -16,4 +16,3 @@ podcast:
 ---
 In this episode, there are five storylines but we just talk pens, paper and panties.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep447_the_cheever_letters.mp3)

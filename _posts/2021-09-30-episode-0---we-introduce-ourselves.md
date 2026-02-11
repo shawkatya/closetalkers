@@ -16,4 +16,3 @@ podcast:
 ---
 Derek and Katy introduce themselves, talk a bit about why they are doing a Seinfeld podcast, and argue a little!
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep000_we_introduce_ourselves.mp3)

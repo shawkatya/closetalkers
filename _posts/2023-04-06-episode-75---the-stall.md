@@ -16,4 +16,3 @@ podcast:
 ---
 There's more than one exploding whale video you need to see, we debunk the climbing accident and discuss the tortilla continuum.
 
-[Listen to the episode](https://shawkatya.github.io/closetalkers/_assets/ep575_the_stall.mp3)
