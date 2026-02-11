@@ -8,8 +8,9 @@ podcast:
   duration: 1922
   guid: "73762e71-7f8c-46b5-9d3e-537dab4eb6ef"
   season: 3
+  episode: 27
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "The butterfly pea tequilas are flowing, and Derek and Katy discuss parties, cough remedies and whether Mr. Long Island got what Jerry paid for."
   # image: "/assets/episode-cover.png"
 ---

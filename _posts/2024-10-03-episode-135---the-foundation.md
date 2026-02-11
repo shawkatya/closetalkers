@@ -8,8 +8,9 @@ podcast:
   duration: 1388
   guid: "d7f429b7-1bbb-49ba-a6ae-b79d1f1c3999"
   season: 8
+  episode: 135
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We try to remember how to podcast and more importantly, whether Katy has seen any of the Star Trek movies (she hasn't)."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 2596
   guid: "781912d7-8b9f-4be3-b7f3-3c37ce408143"
   season: 7
+  episode: 124
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Marisa Tomei loves short, stocky, funny bald men. Elaine loses her mind. Jerry is a very good boy. Derek thinks he is not related to his cousins."
   # image: "/assets/episode-cover.png"
 ---

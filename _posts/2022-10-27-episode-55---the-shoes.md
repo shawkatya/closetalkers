@@ -8,8 +8,9 @@ podcast:
   duration: 2007
   guid: "0069bc98-9019-4dc4-a9d1-dd07fd744923"
   season: 4
+  episode: 55
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We debate what terrible things might have happened to our food, and Derek has lots to say about cleavage."
   # image: "/assets/episode-cover.png"
 ---

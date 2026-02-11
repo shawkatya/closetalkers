@@ -8,8 +8,9 @@ podcast:
   duration: 1650
   guid: "16f34833-a0c6-4959-bb80-22fa1bbaa0d6"
   season: 6
+  episode: 95
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We could go the tomato route, but instead we crowd into the changeroom at Barney's."
   # image: "/assets/episode-cover.png"
 ---

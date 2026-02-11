@@ -8,8 +8,9 @@ podcast:
   duration: 1847
   guid: "fe3a834c-7a8e-4288-bb0e-b1413a188bfc"
   season: 7
+  episode: 113
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek thinks Katy uses too many mugs. Katy is pro-canning. Larry David's worst story idea sees George providing a chair."
   # image: "/assets/episode-cover.png"
 ---

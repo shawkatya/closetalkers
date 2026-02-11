@@ -8,8 +8,9 @@ podcast:
   duration: 2100
   guid: "accc61b8-6ced-4a7b-a16b-d0000bb3fc6d"
   season: 8
+  episode: 147
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "A pretty good episode about shrimp and comas. We release on Fridays now."
   # image: "/assets/episode-cover.png"
 ---

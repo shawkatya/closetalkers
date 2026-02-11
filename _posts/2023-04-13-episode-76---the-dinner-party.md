@@ -8,8 +8,9 @@ podcast:
   duration: 2326
   guid: "a4d3cc43-e3b2-43ba-8471-35071ac70561"
   season: 5
+  episode: 76
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Katy wants to know why she wasn't invited to the wine enemas, Derek tells everyone in Cuba he loves them, and the gang doesn't go to a dinner party."
   # image: "/assets/episode-cover.png"
 ---

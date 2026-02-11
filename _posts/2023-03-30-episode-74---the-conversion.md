@@ -8,8 +8,9 @@ podcast:
   duration: 1927
   guid: "74bf956a-57c7-41ed-931c-9e1b782b359a"
   season: 5
+  episode: 74
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "It is a hard G or a soft G? Are those the ones that go around mutilating squirrels? Do you peek in the cabinet? Derek will if it's obvious, Katy will if you're weird."
   # image: "/assets/episode-cover.png"
 ---

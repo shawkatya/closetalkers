@@ -8,8 +8,9 @@ podcast:
   duration: 1622
   guid: "038a7b1a-d9f0-45c6-828b-82f40962e53c"
   season: 7
+  episode: 127
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "The Friars Club serves turd burger. Derek has strong feelings about conductors again. Katy's mic was off and no one noticed."
   # image: "/assets/episode-cover.png"
 ---

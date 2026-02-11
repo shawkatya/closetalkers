@@ -8,8 +8,9 @@ podcast:
   duration: 1971
   guid: "aab54491-3498-44dd-8c06-b2fa5aa5943e"
   season: 7
+  episode: 119
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek believes a sponge will always get used. Katy had to do a hard target search for eye wipes. Kramer's walk is not worth talking about."
   # image: "/assets/episode-cover.png"
 ---

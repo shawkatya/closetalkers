@@ -8,8 +8,9 @@ podcast:
   duration: 1394
   guid: "a4d27e11-4ade-4fca-8f52-dc4ec9cde7f9"
   season: 4
+  episode: 45
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Elaine sings with a stranger, George begs, Jerry bargains, and we bask in the glory of Beyond Belief."
   # image: "/assets/episode-cover.png"
 ---

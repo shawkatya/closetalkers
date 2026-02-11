@@ -8,8 +8,9 @@ podcast:
   duration: 1566
   guid: "f71c81eb-b036-4729-8a4d-01e485632b82"
   season: 6
+  episode: 96
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Katy's not a communist but she looks best in drab green. Derek's not a communist but he wrote for the Daily Worker. George goes to Cuba."
   # image: "/assets/episode-cover.png"
 ---

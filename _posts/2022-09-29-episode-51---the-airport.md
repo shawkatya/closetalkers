@@ -8,8 +8,9 @@ podcast:
   duration: 2158
   guid: "17c4331e-f023-4a7c-ae35-9fa21a3b992f"
   season: 4
+  episode: 51
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Jerry ditches Elaine in coach, it's a good Kramer dialogue episode and Derek makes Katy feel bad for Hulk Hogan."
   # image: "/assets/episode-cover.png"
 ---

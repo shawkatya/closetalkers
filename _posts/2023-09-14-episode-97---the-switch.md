@@ -8,8 +8,9 @@ podcast:
   duration: 1577
   guid: "df785cbc-92f9-45d8-8800-10377c41fe8e"
   season: 6
+  episode: 97
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Pickleball culture is out of control. Jerry fails successfully at the switch. Katy tries to guess where the name is real or not. TW: Eating disorders are mentioned in this episode."
   # image: "/assets/episode-cover.png"
 ---

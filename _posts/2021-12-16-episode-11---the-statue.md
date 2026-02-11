@@ -8,8 +8,9 @@ podcast:
   duration: 1745
   guid: "f60c1fe6-7391-4690-86b5-aaddee8078cf"
   season: 2
+  episode: 11
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Inka dink a bottle of ink, the cork fell out and this episode stinks. Seinfeld's, not ours."
   # image: "/assets/episode-cover.png"
 ---

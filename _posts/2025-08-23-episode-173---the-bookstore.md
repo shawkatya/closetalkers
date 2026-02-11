@@ -8,8 +8,9 @@ podcast:
   duration: 1524
   guid: "8d22fde3-c080-4ae9-9a8b-0370237d74ab"
   season: 9
+  episode: 173
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We claim not to like this episode, then spend 20 minutes recounting parts we liked. Bookstore, rickshaw, makeout, and Jerry is also there."
   # image: "/assets/episode-cover.png"
 ---

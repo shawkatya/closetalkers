@@ -8,8 +8,9 @@ podcast:
   duration: 1454
   guid: "70698764-b74f-4d91-99d1-82c1462c0aa9"
   season: 3
+  episode: 21
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Jerry minds a dog, George and Elaine find that they are friends-in-law, and that's about it."
   # image: "/assets/episode-cover.png"
 ---

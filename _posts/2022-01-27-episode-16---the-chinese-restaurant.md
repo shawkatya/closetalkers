@@ -8,8 +8,9 @@ podcast:
   duration: 2164
   guid: "68221cdb-fe98-4b60-8bed-51d742bd3ac1"
   season: 2
+  episode: 16
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Let's order from the Chinese food restaurant, let's order from the Greek food restaurant, let's order from the Thai food restaurant."
   # image: "/assets/episode-cover.png"
 ---

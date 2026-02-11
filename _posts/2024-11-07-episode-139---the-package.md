@@ -8,8 +8,9 @@ podcast:
   duration: 1583
   guid: "93f81417-0613-4d75-9e92-ec40346849de"
   season: 8
+  episode: 139
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "The gang's all here, doing things and going places. We talk about mukbangs."
   # image: "/assets/episode-cover.png"
 ---

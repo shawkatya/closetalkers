@@ -8,8 +8,9 @@ podcast:
   duration: 1721
   guid: "dbe8d01e-f5c5-4d52-a21e-cded022e1065"
   season: 8
+  episode: 148
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Shallow Hal, Envy, Del Taco and also a good Jerry episode. The Van Buren Boys never hassle their own kind."
   # image: "/assets/episode-cover.png"
 ---

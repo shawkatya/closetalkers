@@ -8,8 +8,9 @@ podcast:
   duration: 2789
   guid: "4b439a92-31f8-44a9-ad6a-96b71b9832c0"
   season: 7
+  episode: 116
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We get censored this episode, and it's not for saying Soup Nazi too much. George is disgusted with Jerry. Kramer is roughed up by toughs."
   # image: "/assets/episode-cover.png"
 ---

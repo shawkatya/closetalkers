@@ -8,8 +8,9 @@ podcast:
   duration: 1812
   guid: "51335ab9-b325-4e44-8723-4ed1dc3591e7"
   season: 5
+  episode: 79
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Where is Shelley? We discuss the superhunks (again),public transit and why you would ever take it out."
   # image: "/assets/episode-cover.png"
 ---

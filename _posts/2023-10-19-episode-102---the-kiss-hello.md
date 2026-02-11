@@ -8,8 +8,9 @@ podcast:
   duration: 2140
   guid: "42ba5e66-5fce-436a-80de-75e02772d382"
   season: 6
+  episode: 102
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Elaine's friend leaves her three blocks from home with all her ski gear. George yells at a delicate genius. We are still talking about pointy heads."
   # image: "/assets/episode-cover.png"
 ---

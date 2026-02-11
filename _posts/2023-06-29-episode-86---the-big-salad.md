@@ -8,8 +8,9 @@ podcast:
   duration: 1498
   guid: "3e3f7f2a-25a8-4d74-8c41-3adac3b89e71"
   season: 6
+  episode: 86
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Katy and Derek do a deep dive on pens and pencils. We learn about Katy's childhood cereal habit."
   # image: "/assets/episode-cover.png"
 ---

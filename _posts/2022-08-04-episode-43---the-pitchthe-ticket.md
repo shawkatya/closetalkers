@@ -8,8 +8,9 @@ podcast:
   duration: 2291
   guid: "3146f750-b8fa-4bfa-9822-87d944ffe165"
   season: 4
+  episode: 43
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Is The Pitch/The Ticket a good episode? How do you wipe with corn cobs? Can you recover from vomiting on someone?"
   # image: "/assets/episode-cover.png"
 ---

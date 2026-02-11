@@ -8,8 +8,9 @@ podcast:
   duration: 1612
   guid: "26b30e55-999c-4122-bd7f-b496da9a36c9"
   season: 8
+  episode: 137
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek's biggest fear is accidentally ordering lobster at a restaurant. Katy wants to know the distance in time. Elaine isn't in the mirror world."
   # image: "/assets/episode-cover.png"
 ---

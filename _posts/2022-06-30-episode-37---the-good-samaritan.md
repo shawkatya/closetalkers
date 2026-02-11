@@ -8,8 +8,9 @@ podcast:
   duration: 1900
   guid: "0889ddef-5ae6-4614-8c63-2fcff7beb04c"
   season: 3
+  episode: 37
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Jerry ends up dating a sociopath who sideswiped a car. George has an affair with a sociopath's wife. Derek and Katy try to figure out some geography with the help of an old tune."
   # image: "/assets/episode-cover.png"
 ---

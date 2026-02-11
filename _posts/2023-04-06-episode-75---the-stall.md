@@ -8,8 +8,9 @@ podcast:
   duration: 2263
   guid: "76fe0ed4-f1f1-4636-ad1d-63b2cef0b43f"
   season: 5
+  episode: 75
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "There's more than one exploding whale video you need to see, we debunk the climbing accident and discuss the tortilla continuum."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 2082
   guid: "36a710e6-52be-485d-bacc-e171fc0aead9"
   season: 9
+  episode: 164
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We really like this backwards episode. Is it the good Crash or the bad Crash? Derek goes blue talking about the Sixth Sense."
   # image: "/assets/episode-cover.png"
 ---

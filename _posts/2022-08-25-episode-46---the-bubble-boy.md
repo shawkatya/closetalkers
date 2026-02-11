@@ -8,8 +8,9 @@ podcast:
   duration: 1655
   guid: "9e472e22-e87e-4382-85ed-462ef05b1690"
   season: 4
+  episode: 46
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We dive deep into voicemail, Derek calls out attached earlobes, and we only like Smarmy Confident George if he's directing it at a jerk."
   # image: "/assets/episode-cover.png"
 ---

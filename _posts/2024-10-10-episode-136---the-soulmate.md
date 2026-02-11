@@ -8,8 +8,9 @@ podcast:
   duration: 1772
   guid: "32462d8f-881b-45e0-9df2-ab25ff4c2316"
   season: 8
+  episode: 136
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "There was a low rumble, a metallic squink, and a baffling galonk. Katy reconsiders the Bic Round Stic. Derek's nails don't grow like everyone else's."
   # image: "/assets/episode-cover.png"
 ---

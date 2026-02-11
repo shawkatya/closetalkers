@@ -8,8 +8,9 @@ podcast:
   duration: 2831
   guid: "c5e3ef10-7546-4aa4-b37c-8368e778fd78"
   season: 4
+  episode: 50
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Glamour?! A very special Episode 50 is out! Derek and Katy go live on YouTube in a special extra-long episode about the best sitcom episode of all time."
   # image: "/assets/episode-cover.png"
 ---

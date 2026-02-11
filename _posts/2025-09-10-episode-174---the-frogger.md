@@ -8,8 +8,9 @@ podcast:
   duration: 1832
   guid: "66127214-82e8-4c54-967f-d826afba95e6"
   season: 9
+  episode: 174
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "They may not be Amish but they are irritating. He had a polyp on his duodenum. Derek contemplates career options."
   # image: "/assets/episode-cover.png"
 ---

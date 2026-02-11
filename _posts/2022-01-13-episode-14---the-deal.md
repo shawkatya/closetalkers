@@ -8,8 +8,9 @@ podcast:
   duration: 1930
   guid: "614fc202-e983-4d6c-bcd2-0724e6e6c23f"
   season: 2
+  episode: 14
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Just like popcorn and beer, Jerry and Elaine do not belong together. Warning: This episode mentions sex. *gasp!*"
   # image: "/assets/episode-cover.png"
 ---

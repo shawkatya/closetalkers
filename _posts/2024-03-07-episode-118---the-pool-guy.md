@@ -8,8 +8,9 @@ podcast:
   duration: 1769
   guid: "7cdb8527-a494-41ff-9680-0a2155a73593"
   season: 7
+  episode: 118
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Hello and welcome to this episode. Why don't you just tell me what you thought of it? We discuss driving positions, buffers and ballzookas."
   # image: "/assets/episode-cover.png"
 ---

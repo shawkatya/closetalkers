@@ -8,8 +8,9 @@ podcast:
   duration: 1411
   guid: "0f61a274-d3c6-47cc-ae6a-b9999ed89b71"
   season: 6
+  episode: 87
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Jerry's cheque-cashing sends his Nana into the mean streets for the first time in 20 years and there are three other storylines to boot."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 2415
   guid: "d32adb0d-7d84-403e-8cc2-9871f99621ba"
   season: 5
+  episode: 84
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Katy's a deli meats gal, because a lot of sins could be hidden in tuna. Derek believes the opposite of eating a tuna sandwich is throwing up a tuna sandwich."
   # image: "/assets/episode-cover.png"
 ---

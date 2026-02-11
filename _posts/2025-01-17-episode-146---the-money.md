@@ -8,8 +8,9 @@ podcast:
   duration: 1480
   guid: "2899fdaf-e0a4-4f89-ac73-cd8216fbc58b"
   season: 8
+  episode: 146
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Tuna and tomato on a cinnamon raisin bagel with a chocolate raspberry coffee, please! The Cadillac changes hands and we stare at a map."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 1885
   guid: "b8679f6b-384d-4c7c-bda2-4b345ed7634a"
   season: 3
+  episode: 29
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "George buys a sweater with a red dot. Derek tries on hats. Katy laughs."
   # image: "/assets/episode-cover.png"
 ---

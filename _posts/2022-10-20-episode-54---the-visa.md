@@ -8,8 +8,9 @@ podcast:
   duration: 1632
   guid: "b3190127-8dfb-45de-ac39-daf2926a6491"
   season: 4
+  episode: 54
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek makes up for last week with a Werner Herzog impression. We discuss whether passing along mail for a previous resident is worth it. George's date was going to help everyone and he blows it."
   # image: "/assets/episode-cover.png"
 ---

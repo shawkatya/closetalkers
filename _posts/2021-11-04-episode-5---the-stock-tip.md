@@ -8,8 +8,9 @@ podcast:
   duration: 1836
   guid: "e19b069c-91d2-4abf-b81e-9f992cb19771"
   season: 1
+  episode: 5
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Jerry and George get a hot stock tip, a bunch of awkward situations happen, and it wraps up in a tidy 23 minutes."
   # image: "/assets/episode-cover.png"
 ---

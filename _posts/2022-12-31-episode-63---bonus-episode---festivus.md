@@ -8,8 +8,9 @@ podcast:
   duration: 2119
   guid: "2673cb52-42ef-4ef8-82a2-956ec2c0f13a"
   season: 4
+  episode: 63
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "It's a festivus miracle, a bonus episode! Warning: this episode contains lots of misophonic ASMR stuff, so beware."
   # image: "/assets/episode-cover.png"
 ---

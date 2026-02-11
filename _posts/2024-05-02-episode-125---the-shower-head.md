@@ -8,8 +8,9 @@ podcast:
   duration: 1971
   guid: "d68c35ff-95f3-4695-8567-9fe76df2779a"
   season: 7
+  episode: 125
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Katy wants a steady flow, medium pressure. Derek doesn't know what the other side of cabbage is. And can your pee tell you about your bones?"
   # image: "/assets/episode-cover.png"
 ---

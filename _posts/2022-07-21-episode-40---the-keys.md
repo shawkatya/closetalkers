@@ -8,8 +8,9 @@ podcast:
   duration: 1710
   guid: "b81e3fea-4114-46bb-9b44-280aeefff1a2"
   season: 3
+  episode: 40
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Key brothers share a sacred bond. We discuss bones, planes, Murphy Brown and other things we have no business talking about."
   # image: "/assets/episode-cover.png"
 ---

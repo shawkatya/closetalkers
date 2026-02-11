@@ -8,8 +8,9 @@ podcast:
   duration: 2225
   guid: "5e5382a0-219b-4dd4-a8ef-4efb01026e61"
   season: 8
+  episode: 149
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "You either are a Kathy or you're not. Kathy and Cameron discuss names, Khan, trunks, daylight savings and a backless tuxedo."
   # image: "/assets/episode-cover.png"
 ---

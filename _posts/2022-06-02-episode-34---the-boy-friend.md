@@ -8,8 +8,9 @@ podcast:
   duration: 2442
   guid: "769efd74-974c-407d-8e31-b164cd4eaef9"
   season: 3
+  episode: 34
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We attempt to solve the age-old question that nobody has asked, \"If you plug an old phone into a landline jack with no home phone service, can you still call 911?\" And then some stuff about Keith Hernandez, unemployment, spitting on Newman, Elaine and jealousy, moving furniture, and a tall woman."
   # image: "/assets/episode-cover.png"
 ---

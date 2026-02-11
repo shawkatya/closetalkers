@@ -8,8 +8,9 @@ podcast:
   duration: 2254
   guid: "59d8b918-71f0-4f3c-9c4b-15b73b5acc7d"
   season: 9
+  episode: 177
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We bring you facts and arguments about the entirety of Seinfeld."
   # image: "/assets/episode-cover.png"
 ---

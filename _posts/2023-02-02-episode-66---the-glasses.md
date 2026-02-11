@@ -8,8 +8,9 @@ podcast:
   duration: 1785
   guid: "d2662ebb-f98b-43b3-b8a9-ae036ed4a527"
   season: 5
+  episode: 66
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek and Katy recount stories of their eighth grade school trips because anything is more interesting than this Seinfeld episode about glasses."
   # image: "/assets/episode-cover.png"
 ---

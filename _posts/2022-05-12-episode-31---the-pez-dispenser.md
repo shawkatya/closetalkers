@@ -8,8 +8,9 @@ podcast:
   duration: 2106
   guid: "a0f50b3e-6f84-403c-91cc-de14226dd600"
   season: 3
+  episode: 31
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Thirty episodes in the bag and we still seem so new to this. We eat some Pez, discuss Pez loading techniques and briefly mention the episode."
   # image: "/assets/episode-cover.png"
 ---

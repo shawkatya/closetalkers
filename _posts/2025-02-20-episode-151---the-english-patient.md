@@ -8,8 +8,9 @@ podcast:
   duration: 1707
   guid: "8ffeb868-a338-4cd1-b6f6-d50ad5ae4db1"
   season: 8
+  episode: 151
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "You can't have sex in a bucket. Katy wants bro instagram chefs to pour sauce on themselves. Derek's English Patient is the Sixth Sense."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 1741
   guid: "de79c352-1eec-4c26-abe2-76b1e709dd82"
   season: 4
+  episode: 57
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Jerry, George and Elaine all do the same job for a single day, and Vulture.com lose their minds over it."
   # image: "/assets/episode-cover.png"
 ---

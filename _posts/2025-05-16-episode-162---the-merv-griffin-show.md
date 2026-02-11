@@ -8,8 +8,9 @@ podcast:
   duration: 1486
   guid: "5f82d9f6-b76d-4930-8340-32e5cb385d6f"
   season: 9
+  episode: 162
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "What is Popeyes favourite food? Did the cat open the door? Is this one of the top Seinfeld episodes?"
   # image: "/assets/episode-cover.png"
 ---

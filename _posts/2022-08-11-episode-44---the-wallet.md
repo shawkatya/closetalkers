@@ -8,8 +8,9 @@ podcast:
   duration: 1649
   guid: "e4939c68-6805-4f0c-83c8-a6cf0ffd3d07"
   season: 4
+  episode: 44
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek reveals a deep, dark secret, and has never been more disgusted with George."
   # image: "/assets/episode-cover.png"
 ---

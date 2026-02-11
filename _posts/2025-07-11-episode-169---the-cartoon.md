@@ -8,8 +8,9 @@ podcast:
   duration: 1283
   guid: "510119dd-9921-4c12-bd6e-4001fc4c7a7f"
   season: 9
+  episode: 169
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We liked this episode about a Ziggy cartoon? Elaine is changing flat tires? Who has change anymore?"
   # image: "/assets/episode-cover.png"
 ---

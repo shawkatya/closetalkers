@@ -8,8 +8,9 @@ podcast:
   duration: 1622
   guid: "6f414c06-41bc-402f-909c-e46f5a7f9c1f"
   season: 8
+  episode: 152
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We pitch ergonomic furniture store names. Katy likes a Kramer joke and Derek doesn't like his swimming style. George is a cozy boy."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 1672
   guid: "ab01fe3d-4e17-49aa-9352-65b95a5c2b06"
   season: 2
+  episode: 8
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "How much was the jacket? Why didn't Jerry try to fix it? Why can't we figure out which way is up or down on the microphone gain?"
   # image: "/assets/episode-cover.png"
 ---

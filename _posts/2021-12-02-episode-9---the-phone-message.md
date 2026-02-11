@@ -8,8 +8,9 @@ podcast:
   duration: 1926
   guid: "78351586-66c1-4562-8159-cddd8ee44060"
   season: 2
+  episode: 9
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "George leaves terrible phone messages. We focus on the stuffing chocolate in your bra and hat parts and less on the other parts."
   # image: "/assets/episode-cover.png"
 ---

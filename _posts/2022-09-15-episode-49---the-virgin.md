@@ -8,8 +8,9 @@ podcast:
   duration: 2031
   guid: "baafb27b-f5ea-4344-a103-183a1edbc9be"
   season: 4
+  episode: 49
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We google a great many things about Seinfeld's The Virgin but we swear it's not boring to listen to."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 2221
   guid: "f48f45df-d87c-4062-91b0-0f6d2e4a0a2d"
   season: 7
+  episode: 117
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Take Part in the fun! Elaine is obsessed with a man who doesn't remember her, and George reveals his secret to Jacopo's mama."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 1833
   guid: "6b6d803c-2d8b-48af-874d-d0ce76fdc0a4"
   season: 3
+  episode: 33
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek and Katy read lines from this Emmy-winning episode and veer off in increasingly large tangents."
   # image: "/assets/episode-cover.png"
 ---

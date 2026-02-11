@@ -8,8 +8,9 @@ podcast:
   duration: 1578
   guid: "3c3f9f8a-3a94-48d3-b831-375034e04af2"
   season: 6
+  episode: 93
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "It's a summer clip show!"
   # image: "/assets/episode-cover.png"
 ---

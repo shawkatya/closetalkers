@@ -8,8 +8,9 @@ podcast:
   duration: 1448
   guid: "c4551a13-0d87-4046-be99-b9542e11aa91"
   season: 6
+  episode: 88
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We alienate our American listeners, Donna Chang leads everyone on, and Derek doesn't even think Larry David deserves mention."
   # image: "/assets/episode-cover.png"
 ---

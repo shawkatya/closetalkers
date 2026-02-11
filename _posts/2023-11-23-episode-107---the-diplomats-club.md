@@ -8,8 +8,9 @@ podcast:
   duration: 1732
   guid: "df6d44c1-a77d-455f-8a94-cd163bef4bf2"
   season: 6
+  episode: 107
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Repeat after me: you can't have sex in the lobby of a hotel. And what does it mean if you say you have a pen in your ear? George is a terrible person."
   # image: "/assets/episode-cover.png"
 ---

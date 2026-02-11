@@ -8,8 +8,9 @@ podcast:
   duration: 2236
   guid: "9073d3fe-c444-456a-9f36-6d34195ab433"
   season: 5
+  episode: 67
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Here's to feeling good all the time. Katy tries out her Mandarin and then promptly loses her voice. Derek tells an incredible bar story."
   # image: "/assets/episode-cover.png"
 ---

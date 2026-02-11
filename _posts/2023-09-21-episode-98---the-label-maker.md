@@ -8,8 +8,9 @@ podcast:
   duration: 1865
   guid: "372839cf-39ab-4ef4-9622-1d826639832b"
   season: 6
+  episode: 98
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Tim Whatley regifts a label maker, the second most wonderful office equipment. George eats a dark pickle. We fix Canadian football. Ukraine is not weak."
   # image: "/assets/episode-cover.png"
 ---

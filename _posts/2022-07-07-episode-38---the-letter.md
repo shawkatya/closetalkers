@@ -8,8 +8,9 @@ podcast:
   duration: 1874
   guid: "67df5aa3-eccb-4237-b1ab-5a97265e4813"
   season: 3
+  episode: 38
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Welcome to Art Talk, our new podcast about art. Someone will have to explain it to George, and then explain the explanation."
   # image: "/assets/episode-cover.png"
 ---

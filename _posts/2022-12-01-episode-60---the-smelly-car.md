@@ -8,8 +8,9 @@ podcast:
   duration: 1823
   guid: "eae581a1-74e9-43d7-90f6-0d91fc907b39"
   season: 4
+  episode: 60
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We debate the merits of white wine, exotic fruits and just a bit about this so-so episode."
   # image: "/assets/episode-cover.png"
 ---

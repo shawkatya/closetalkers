@@ -8,8 +8,9 @@ podcast:
   duration: 2137
   guid: "f1c5ec98-1cbe-4b24-aa6a-513cf802662b"
   season: 6
+  episode: 94
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Mr. Pitt gets to briefly live his dream, George drives Mr. Voight's car, Jerry doesn't want to be a cowboy and Elaine's next stop is Pottersville."
   # image: "/assets/episode-cover.png"
 ---

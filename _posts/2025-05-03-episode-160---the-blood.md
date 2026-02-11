@@ -8,8 +8,9 @@ podcast:
   duration: 1648
   guid: "e2689564-7246-43f4-876b-5b1e2bacacc9"
   season: 9
+  episode: 160
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Once around the block, three times a week, and I eat a plum every morning. We hate this episode."
   # image: "/assets/episode-cover.png"
 ---

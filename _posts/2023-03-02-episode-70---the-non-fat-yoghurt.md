@@ -8,8 +8,9 @@ podcast:
   duration: 1454
   guid: "bb2f2bbf-c728-441f-bb85-851cb8f1dda2"
   season: 5
+  episode: 70
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "This time Katy's mic is off, but we still nail it. Derek mentions an outtake and never delivers, and claims he can eat a whole onion, fast."
   # image: "/assets/episode-cover.png"
 ---

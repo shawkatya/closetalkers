@@ -8,8 +8,9 @@ podcast:
   duration: 1763
   guid: "92236963-43e9-4f53-8a8d-27f7de4745a5"
   season: 6
+  episode: 104
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek and Katy do not like this episode. Derek and Katy talk about killer tomatoes instead. Derek and Katy sing a song from Drag Race."
   # image: "/assets/episode-cover.png"
 ---

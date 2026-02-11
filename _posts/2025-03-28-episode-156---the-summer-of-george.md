@@ -8,8 +8,9 @@ podcast:
   duration: 1658
   guid: "73bf357a-1a49-47b3-abe4-9107f132960e"
   season: 8
+  episode: 156
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Maybe they are salamis up there. Maybe what this woman needs is brother husbands. Katy is not going to wear a \"Team Pubes\" shirt."
   # image: "/assets/episode-cover.png"
 ---

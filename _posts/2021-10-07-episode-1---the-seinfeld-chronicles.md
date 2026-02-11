@@ -8,8 +8,9 @@ podcast:
   duration: 1617
   guid: "119a56cd-0c76-4771-a785-0c21a499753a"
   season: 1
+  episode: 1
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We begin the series for real, discussing the pilot episode, \"The Seinfeld Chronicles\". What happened to the dog?"
   # image: "/assets/episode-cover.png"
 ---

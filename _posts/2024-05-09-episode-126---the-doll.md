@@ -8,8 +8,9 @@ podcast:
   duration: 1757
   guid: "2438ca1a-c8ee-43ab-afce-17319c0d8cba"
   season: 7
+  episode: 126
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "This episode goes off the rails and never comes back. Nothing we say can be used against us in a court of law."
   # image: "/assets/episode-cover.png"
 ---

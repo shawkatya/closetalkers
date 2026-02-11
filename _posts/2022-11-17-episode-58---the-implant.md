@@ -8,8 +8,9 @@ podcast:
   duration: 1496
   guid: "9e559f70fc4145d0913a944161d300be"
   season: 4
+  episode: 58
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Our hubris in claiming we are perfect comes back to bite us as Derek's microphone dies while we discuss fake boobs."
   # image: "/assets/episode-cover.png"
 ---

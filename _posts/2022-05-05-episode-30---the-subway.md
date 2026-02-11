@@ -8,8 +8,9 @@ podcast:
   duration: 1822
   guid: "ba6d8f75-a6d0-4590-8dde-d5629775f645"
   season: 3
+  episode: 30
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "The four ride the subway to Coney Island, to the bookies, to a wedding, and to ruin. Derek and Katy discuss future podcast possibilities."
   # image: "/assets/episode-cover.png"
 ---

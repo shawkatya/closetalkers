@@ -8,8 +8,9 @@ podcast:
   duration: 2007
   guid: "4460c88c-a1d6-4e08-94a5-28ddf49d63bc"
   season: 5
+  episode: 80
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We talk cleaners with offensive statues, cleaners with crumbling architecture, olives, and peeing in the shower (it's fine)."
   # image: "/assets/episode-cover.png"
 ---

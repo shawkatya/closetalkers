@@ -8,8 +8,9 @@ podcast:
   duration: 130
   guid: "c5ad66fe-8b29-4085-8ade-8cc9e2e927b2"
   season: 3
+  episode: 35
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek records a solo mini episode, and makes Katy listen to a monologue a dozen times. Back to regular episodes next week."
   # image: "/assets/episode-cover.png"
 ---

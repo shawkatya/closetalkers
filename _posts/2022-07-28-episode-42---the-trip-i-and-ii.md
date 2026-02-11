@@ -8,8 +8,9 @@ podcast:
   duration: 2593
   guid: "dd4b9f1a-e3f4-4aa1-b324-52b15dd46583"
   season: 4
+  episode: 42
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "This episode is a trip, which is neither dark nor funny (Seinfeld's, not ours)."
   # image: "/assets/episode-cover.png"
 ---

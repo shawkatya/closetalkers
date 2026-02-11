@@ -8,8 +8,9 @@ podcast:
   duration: 1710
   guid: "2f68a40b-68a1-4af4-ab54-acd8d00afb2b"
   season: 4
+  episode: 41
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We screwed up so much, here's a full bonus episode of corrections!"
   # image: "/assets/episode-cover.png"
 ---

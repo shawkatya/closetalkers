@@ -8,8 +8,9 @@ podcast:
   duration: 2088
   guid: "5602061c-ad9d-45f8-b26e-fa0cfc249d3d"
   season: 4
+  episode: 48
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We have a lot of laughs talking about this dark Seinfeld episode about the opera, and tease something very special for episode 50."
   # image: "/assets/episode-cover.png"
 ---

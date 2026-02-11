@@ -8,8 +8,9 @@ podcast:
   duration: 1769
   guid: "c691ac40-9ef8-4fa8-9a35-2fa757b6cd12"
   season: 8
+  episode: 154
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "The World Series trophy is trash. Calendars are made up, we say celebrate things whenever you want."
   # image: "/assets/episode-cover.png"
 ---

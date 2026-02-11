@@ -8,8 +8,9 @@ podcast:
   duration: 466
   guid: "188a6d39-cfa0-4485-ab39-82d5dada6d04"
   season: 1
+  episode: 0
   episode_type: "trailer"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek and Katy introduce themselves, talk a bit about why they are doing a Seinfeld podcast, and argue a little!"
   # image: "/assets/episode-cover.png"
 ---

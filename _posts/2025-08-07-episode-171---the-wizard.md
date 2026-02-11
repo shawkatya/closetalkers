@@ -8,8 +8,9 @@ podcast:
   duration: 1013
   guid: "83744d5d-7151-4b90-aa4c-41c285d4aa2d"
   season: 9
+  episode: 171
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "It's a quick one! Elaine looks great. George exercises the gaskets."
   # image: "/assets/episode-cover.png"
 ---

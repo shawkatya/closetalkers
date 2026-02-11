@@ -8,8 +8,9 @@ podcast:
   duration: 2098
   guid: "315da48f-1c61-4d1f-ae4f-c668fc0366c3"
   season: 9
+  episode: 159
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek doesn't care about the glass vase with sticks. What's wrong with Jerry's leg?"
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 1717
   guid: "4b978df6-fb4f-42f9-8435-864882755f7d"
   season: 9
+  episode: 157
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Damn you Seinfeld, you useless pustule. Katy wants Puddy to tell her to go to hell."
   # image: "/assets/episode-cover.png"
 ---

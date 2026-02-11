@@ -8,8 +8,9 @@ podcast:
   duration: 2091
   guid: "28734d00-b4aa-4847-bad7-1c7308209c7a"
   season: 8
+  episode: 150
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Katy feels like she's being hustled at the dentist. Derek doesn't want to disappoint tooth mommy. Jerry's girlfriend does the perfect revenge."
   # image: "/assets/episode-cover.png"
 ---

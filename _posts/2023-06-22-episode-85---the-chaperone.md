@@ -8,8 +8,9 @@ podcast:
   duration: 1484
   guid: "6e5bdb25-29a4-46aa-b817-a18b3c88849e"
   season: 6
+  episode: 85
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Rhode Island are never contenders. We appreciate a classic Miss America performance."
   # image: "/assets/episode-cover.png"
 ---

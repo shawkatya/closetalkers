@@ -8,8 +8,9 @@ podcast:
   duration: 1891
   guid: "4aa75d24-eecd-47c3-a3b0-46316395a138"
   season: 3
+  episode: 26
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We say penis 13 times and discuss aliases and Audrey/Aubrey/Marjorie's nose job."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 1674
   guid: "e37430e7-f961-4828-b63b-e44d57308016"
   season: 1
+  episode: 4
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Jerry tries to break up with a friend, and we plan a fun night out next Wednesday. Or is it this Wednesday?"
   # image: "/assets/episode-cover.png"
 ---

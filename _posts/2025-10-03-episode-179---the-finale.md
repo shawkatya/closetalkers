@@ -8,8 +8,9 @@ podcast:
   duration: 3024
   guid: "adae5aaf-91b8-4d94-9467-7459d23a198b"
   season: 9
+  episode: 179
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "What else is there to say? We talk about the finale of Seinfeld, license plates and the future. Thanks for listening."
   # image: "/assets/episode-cover.png"
 ---

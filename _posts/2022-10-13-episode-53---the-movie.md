@@ -8,8 +8,9 @@ podcast:
   duration: 1681
   guid: "f8054e14-dbff-4173-ab55-12876b399118"
   season: 4
+  episode: 53
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Did Derek record this episode from inside a garbage can? No, he just turned off his mic before we started. The gang tries to see a movie together."
   # image: "/assets/episode-cover.png"
 ---

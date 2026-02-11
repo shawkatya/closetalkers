@@ -8,8 +8,9 @@ podcast:
   duration: 2027
   guid: "25133a7f-ee88-40f5-ae04-f87975724f0e"
   season: 8
+  episode: 145
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "This used to be a Seinfeld podcast. We discuss incels, optical illusions and Instagram."
   # image: "/assets/episode-cover.png"
 ---

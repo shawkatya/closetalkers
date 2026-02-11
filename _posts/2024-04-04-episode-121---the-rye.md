@@ -8,8 +8,9 @@ podcast:
   duration: 1741
   guid: "9b413b46-0deb-4fbd-b149-035423e0efbe"
   season: 7
+  episode: 121
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We're in a Taylor Ham scenario. Katy maintains overhand would get the rye up to the third floor. Derek tries not bring up butt chugging but it happens anyway. We all blame Rusty."
   # image: "/assets/episode-cover.png"
 ---

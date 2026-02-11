@@ -8,8 +8,9 @@ podcast:
   duration: 2348
   guid: "65616c9d-3b26-4ad2-bf35-4abf028b9c59"
   season: 5
+  episode: 78
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Poppy is sloppy, it's Elaine's butt in the window, George's suit swooshes and we love gravy."
   # image: "/assets/episode-cover.png"
 ---

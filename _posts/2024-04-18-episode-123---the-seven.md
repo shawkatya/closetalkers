@@ -8,8 +8,9 @@ podcast:
   duration: 1874
   guid: "7c0e1c73-c5ea-4b6e-8e7d-289d3b3f9c12"
   season: 7
+  episode: 123
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Elaine covets a bike, George claims a name, Kramer asked for Dijon and Jerry can't solve a mystery. That happens!"
   # image: "/assets/episode-cover.png"
 ---

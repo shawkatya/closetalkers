@@ -8,8 +8,9 @@ podcast:
   duration: 1838
   guid: "6da3b3e4-3349-4aba-84d7-ac1b8b46b47c"
   season: 2
+  episode: 15
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "George keeps a shirt and some feelings for too long, and Russian caricatures crash a nighttime baby shower."
   # image: "/assets/episode-cover.png"
 ---

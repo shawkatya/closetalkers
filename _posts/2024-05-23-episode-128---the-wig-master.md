@@ -8,8 +8,9 @@ podcast:
   duration: 1498
   guid: "11c3c465-f49e-446b-803a-710861845d34"
   season: 7
+  episode: 128
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Thick does not mean chunk. We keep it short and silly for this terrible episode."
   # image: "/assets/episode-cover.png"
 ---

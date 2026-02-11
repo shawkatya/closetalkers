@@ -8,8 +8,9 @@ podcast:
   duration: 2067
   guid: "02824091-f2d8-47aa-a1ce-a69d070a7d2b"
   season: 8
+  episode: 140
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Frank sent 16 of his own men to the latrines that night. Katy and Derek debate how many pots one needs. You never need to see the vomit."
   # image: "/assets/episode-cover.png"
 ---

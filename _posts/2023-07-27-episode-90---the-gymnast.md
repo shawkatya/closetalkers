@@ -8,8 +8,9 @@ podcast:
   duration: 1880
   guid: "ac58bbdf-bf09-4e07-9af8-de2fc3b87487"
   season: 6
+  episode: 90
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek says the words \"better than naked is hoiking?\" in this episode, in which we also say the word sex a lot. We talk more about the shirt off than the garbage eclair."
   # image: "/assets/episode-cover.png"
 ---

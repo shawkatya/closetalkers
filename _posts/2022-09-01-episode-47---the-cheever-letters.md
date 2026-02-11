@@ -8,8 +8,9 @@ podcast:
   duration: 1926
   guid: "0bc74ab0-69db-4fb0-8344-0aad3caedf11"
   season: 4
+  episode: 47
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "In this episode, there are five storylines but we just talk pens, paper and panties."
   # image: "/assets/episode-cover.png"
 ---

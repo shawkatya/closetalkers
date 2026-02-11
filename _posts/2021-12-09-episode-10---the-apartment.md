@@ -8,8 +8,9 @@ podcast:
   duration: 1697
   guid: "f897b39f-446b-473a-9a80-5ef3c64aa0a9"
   season: 2
+  episode: 10
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "George wears a redding wing to attack women, Jerry doesn't want Elaine cramping his style, and we debate what mousse is for."
   # image: "/assets/episode-cover.png"
 ---

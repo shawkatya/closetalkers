@@ -8,8 +8,9 @@ podcast:
   duration: 2278
   guid: "21ff1b9e-490f-47e4-ba09-bcf6a8dba4ec"
   season: 5
+  episode: 83
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "There was shrinkage. You gotta see the baby. Breathtaking. One of the best episodes of all time and we talk about Idiocracy and the Full Monty."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 1909
   guid: "6b80a833-1676-48e0-9d9a-f856f19aedc3"
   season: 8
+  episode: 143
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek says don't eat snow, eat people. Katy thinks cooking makes it less bad. It's an A+ George episode but we barely talk about it."
   # image: "/assets/episode-cover.png"
 ---

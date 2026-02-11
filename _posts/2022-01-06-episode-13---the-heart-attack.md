@@ -8,8 +8,9 @@ podcast:
   duration: 2036
   guid: "79e44de1-6988-44f6-8ecd-c25754de65a2"
   season: 2
+  episode: 13
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "If George wanted ice cream so badly, why did he throw it away? Elaine's tongue gets some attention. Bonus ASMR for the weirdos."
   # image: "/assets/episode-cover.png"
 ---

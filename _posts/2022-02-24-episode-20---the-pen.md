@@ -8,8 +8,9 @@ podcast:
   duration: 1619
   guid: "242c5789-ef4a-49ae-9ceb-212bf99ccb0a"
   season: 3
+  episode: 20
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We hit up The Pines of Mar Gables Phase II, visiting Morty and Helen Seinfeld to talk about pens and abutments."
   # image: "/assets/episode-cover.png"
 ---

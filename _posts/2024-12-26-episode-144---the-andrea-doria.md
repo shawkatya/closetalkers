@@ -8,8 +8,9 @@ podcast:
   duration: 1575
   guid: "cb26f5a8-2672-4fb6-9232-78ffa33bf8f4"
   season: 8
+  episode: 144
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Does surviving a shipwreck give you perks for life? Does taking dog medicine make you a dog? Is Elaine still dumb?"
   # image: "/assets/episode-cover.png"
 ---

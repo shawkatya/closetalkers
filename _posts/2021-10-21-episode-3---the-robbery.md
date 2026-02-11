@@ -8,8 +8,9 @@ podcast:
   duration: 1698
   guid: "2c04b279-d19d-464a-af5c-cf7e606a1cc8"
   season: 1
+  episode: 3
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We barely discuss this dud of an episode, and go on a tangent about roommates, theft, and defunct restaurants."
   # image: "/assets/episode-cover.png"
 ---

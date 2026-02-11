@@ -8,8 +8,9 @@ podcast:
   duration: 1356
   guid: "95405ae2-8df1-45a3-b2c4-8799b040aabf"
   season: 3
+  episode: 25
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "A mysterious woman leaves a saucy message on Jerry's tape recorder, George wears a cowboy hat and Derek takes off a sock."
   # image: "/assets/episode-cover.png"
 ---

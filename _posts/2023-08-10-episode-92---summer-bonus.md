@@ -8,8 +8,9 @@ podcast:
   duration: 1323
   guid: "7b246fdf-4035-4a26-ade8-934f08fb7444"
   season: 6
+  episode: 92
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We take a break, we have a KitKat, and some other tasty and not so tasty treats in this summer bonus episode. Lots of chewing and eating noises, beware."
   # image: "/assets/episode-cover.png"
 ---

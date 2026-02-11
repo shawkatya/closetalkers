@@ -8,8 +8,9 @@ podcast:
   duration: 1919
   guid: "ca00b64e-5aa2-4fad-9c58-4505c7a1375d"
   season: 5
+  episode: 68
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We cut so much of this episode out, you might say it was bris'd."
   # image: "/assets/episode-cover.png"
 ---

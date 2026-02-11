@@ -8,8 +8,9 @@ podcast:
   duration: 1885
   guid: "4cb8fac4-b753-44dc-8d0f-db1d28f1635c"
   season: 6
+  episode: 91
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "If you order it, it's a meal. Derek doesn't know who he's making fun of anymore, and we rate the Irish superhunks."
   # image: "/assets/episode-cover.png"
 ---

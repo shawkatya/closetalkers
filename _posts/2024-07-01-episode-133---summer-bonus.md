@@ -8,8 +8,9 @@ podcast:
   duration: 1342
   guid: "6c8c676f-ea19-40f4-8a73-6e8a79f74eb8"
   season: 7
+  episode: 133
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek and Katy square off in the battle of the century to find out...whose cereal choices are better. DM us your vote for Katy's or Derek's lists @closetalkerspodcast on Instagram!"
   # image: "/assets/episode-cover.png"
 ---

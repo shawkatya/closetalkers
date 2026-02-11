@@ -8,8 +8,9 @@ podcast:
   duration: 2292
   guid: "898bd217-dc15-4d40-aedd-2ea31ea8368f"
   season: 9
+  episode: 158
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Katy asks the tough questions: what about the unibrow? Derek says no to everything. La la la."
   # image: "/assets/episode-cover.png"
 ---

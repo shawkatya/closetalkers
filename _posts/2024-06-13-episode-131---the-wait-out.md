@@ -8,8 +8,9 @@ podcast:
   duration: 2015
   guid: "89b1dd7f-5a29-4db6-95ad-887d7e0d9cfb"
   season: 7
+  episode: 131
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "It's better than Ghandi. Somehow we get into conservative mouthpieces and \"reversaries\". Susan chooses the chicken."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 1759
   guid: "26cdeb25-d5ac-45c3-a387-62b90a52c2c0"
   season: 8
+  episode: 142
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Rat hat. How many Rs in Strawberry? Kramer disgusts us all, including himself."
   # image: "/assets/episode-cover.png"
 ---

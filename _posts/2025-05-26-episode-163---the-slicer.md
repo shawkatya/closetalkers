@@ -8,8 +8,9 @@ podcast:
   duration: 2222
   guid: "882427f6-e592-48f8-a13a-8688f3ccd729"
   season: 9
+  episode: 163
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Katy likes a solid pop. Derek wants a slicer setting between 0 and 1. Elaine could have gotten out in several ways."
   # image: "/assets/episode-cover.png"
 ---

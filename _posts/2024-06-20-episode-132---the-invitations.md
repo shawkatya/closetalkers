@@ -8,8 +8,9 @@ podcast:
   duration: 1834
   guid: "f35708ef-9922-4455-9437-0e36ed58c88b"
   season: 7
+  episode: 132
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Susan expires. George rejoices. Jerry dates himself. Kramer says hello. Elaine is also there."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 1699
   guid: "9b8bc09c-36c7-4f17-970d-fe7a52220612"
   season: 8
+  episode: 141
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Laughs do not equal a good episode. Our song might not be what you'd expect."
   # image: "/assets/episode-cover.png"
 ---

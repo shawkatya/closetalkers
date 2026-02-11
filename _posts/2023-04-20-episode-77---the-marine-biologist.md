@@ -8,8 +8,9 @@ podcast:
   duration: 1951
   guid: "8d72b43f-5551-489d-916f-030091451ece"
   season: 5
+  episode: 77
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "George is a yellow, and not a marine biologist. Katy trusts Derek, and his impressions are spot on."
   # image: "/assets/episode-cover.png"
 ---

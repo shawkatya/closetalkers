@@ -8,8 +8,9 @@ podcast:
   duration: 2439
   guid: "138cba7d-46e1-4ad6-a686-d44d060d6a74"
   season: 2
+  episode: 17
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "George gets someone fired, Elaine's room is a flea market, Derek knocks out a friend's teeth, and Katy already bought you a bus ticket."
   # image: "/assets/episode-cover.png"
 ---

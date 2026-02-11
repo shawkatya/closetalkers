@@ -8,8 +8,9 @@ podcast:
   duration: 2144
   guid: "86fcc186-523b-4377-a9b3-dd252c0da976"
   season: 4
+  episode: 62
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Raisins are different. Gorp is not to be shared. And how much loving DOES a normal couple need? Jerry and George's pilot is shot and killed."
   # image: "/assets/episode-cover.png"
 ---

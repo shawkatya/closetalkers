@@ -8,8 +8,9 @@ podcast:
   duration: 1581
   guid: "914a3b70-1830-45ec-8e0b-1af44a4b30d6"
   season: 1
+  episode: 2
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Video stores, paying by cheque, shoulder pads and mild stalking. Ah, the 90s. Katy and Derek talk about Episode 2 of Seinfeld."
   # image: "/assets/episode-cover.png"
 ---

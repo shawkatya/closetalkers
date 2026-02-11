@@ -8,8 +8,9 @@ podcast:
   duration: 1407
   guid: "cc30fe4d-653f-43c1-aeef-bb94ef58e615"
   season: 3
+  episode: 23
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "The four lose the car. The four find the car. We're calling them the four now."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 1843
   guid: "c613c67c-dbf8-47c6-a8f1-0316707fe3d6"
   season: 6
+  episode: 99
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "A toupee, a lie, a pair of glasses, and a scofflaw in that order. New York is real and it's full of diapers and delivery boxes."
   # image: "/assets/episode-cover.png"
 ---

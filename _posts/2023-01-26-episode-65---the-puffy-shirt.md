@@ -8,8 +8,9 @@ podcast:
   duration: 1511
   guid: "9c236383-cfbb-4415-aace-c11f5a73ad2e"
   season: 5
+  episode: 65
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Gaseous bologna, bananas in jello, and a shirt that was the third funniest thing in this episode."
   # image: "/assets/episode-cover.png"
 ---

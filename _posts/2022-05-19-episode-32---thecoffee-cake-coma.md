@@ -8,8 +8,9 @@ podcast:
   duration: 2045
   guid: "dccf3f77-24fa-487c-b99f-4eddf157a03e"
   season: 3
+  episode: 32
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "TW: Throughout this episode, we do talk about self-harm and suicide. Jerry makes moves on a woman whose boyfriend is in a coma, we discuss the finer points of pre- and post-fast dining and all things paranormal."
   # image: "/assets/episode-cover.png"
 ---

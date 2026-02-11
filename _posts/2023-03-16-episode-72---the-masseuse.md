@@ -8,8 +8,9 @@ podcast:
   duration: 1316
   guid: "72eb7b25-fa3a-47b1-9339-3651242564f2"
   season: 5
+  episode: 72
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Jerry is a terrible person, Elaine loves OJ and we're still chatting about chatbots."
   # image: "/assets/episode-cover.png"
 ---

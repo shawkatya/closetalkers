@@ -8,8 +8,9 @@ podcast:
   duration: 1751
   guid: "9cdfcc12-8b30-4f9a-b179-b75103b23812"
   season: 9
+  episode: 161
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Don't even bother watching this Seinfeld episode, we cover the few good parts and talk about Certs."
   # image: "/assets/episode-cover.png"
 ---

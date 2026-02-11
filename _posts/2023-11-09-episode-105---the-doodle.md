@@ -8,8 +8,9 @@ podcast:
   duration: 1463
   guid: "564eae48-0dba-4ee3-9dd0-45b87a150791"
   season: 6
+  episode: 105
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Sucking on pits and nuts, this episode is not really about a doodle. At the end we take a hard turn into energy politics!"
   # image: "/assets/episode-cover.png"
 ---

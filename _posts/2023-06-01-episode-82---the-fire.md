@@ -8,8 +8,9 @@ podcast:
   duration: 1934
   guid: "22b7f0c5-8270-400d-a867-2adb5b9f647b"
   season: 5
+  episode: 82
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek lectures us on theism, but concludes by suggesting we read \"Nietzche's book over there\" for the complete story. George runs from a fire and Katy misunderstands an accident."
   # image: "/assets/episode-cover.png"
 ---

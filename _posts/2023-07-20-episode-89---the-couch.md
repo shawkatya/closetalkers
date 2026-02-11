@@ -8,8 +8,9 @@ podcast:
   duration: 2188
   guid: "09cfe795-b1aa-4ba1-8839-75a71362bb13"
   season: 6
+  episode: 89
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Poppie micturates on Jerry's couch. Tipping culture is fraught, and in the end we didn't tip the guys because they didn't come back the next day. Also it's an abortion episode."
   # image: "/assets/episode-cover.png"
 ---

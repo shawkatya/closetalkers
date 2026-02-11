@@ -8,8 +8,9 @@ podcast:
   duration: 1294
   guid: "0e8ee512-7513-4732-8bac-6883b7456ba6"
   season: 7
+  episode: 120
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Where's Susan? George is worrying an old friend with his behaviour, and everyone else is worried about Lloyd Braun. Elaine's shirt could be wetter."
   # image: "/assets/episode-cover.png"
 ---

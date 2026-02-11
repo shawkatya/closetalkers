@@ -8,8 +8,9 @@ podcast:
   duration: 1829
   guid: "033bc93c-7d34-4b00-aaa1-07fc20f97db4"
   season: 3
+  episode: 36
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We're back with a regular episode! George's car breaks down on his way to pick up Jerry, and they masquerade as O'Brien and Murphy with unexpected results."
   # image: "/assets/episode-cover.png"
 ---

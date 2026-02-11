@@ -8,8 +8,9 @@ podcast:
   duration: 2604
   guid: "d495fa94-2edb-4dd5-91ef-a802803ab339"
   season: 5
+  episode: 81
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Stand up is bread. In this double episode where a lot happens and everyone shows up, we spend (y)our time talking about keys."
   # image: "/assets/episode-cover.png"
 ---

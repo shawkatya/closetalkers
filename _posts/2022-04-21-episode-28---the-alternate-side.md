@@ -8,8 +8,9 @@ podcast:
   duration: 1661
   guid: "a7485ffd-9817-4d72-b07b-8ed6b7064cc1"
   season: 3
+  episode: 28
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Katy takes a sip of Derek's drink off-mic and it nearly ends the podcast. Derek rates the superhunks. The four get into shenanigans."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 2012
   guid: "0affbd1d-f4a5-43f0-9679-98963f61e85e"
   season: 9
+  episode: 166
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek and Katy have a lot of problems with this episode, and you're gonna hear about them."
   # image: "/assets/episode-cover.png"
 ---

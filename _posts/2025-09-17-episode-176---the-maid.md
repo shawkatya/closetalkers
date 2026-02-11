@@ -8,8 +8,9 @@ podcast:
   duration: 2010
   guid: "f2921d3a-d451-4588-803b-2fa5877657e4"
   season: 9
+  episode: 176
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "This is the gem of season 9. We argue what constitutes \"downtown\". Can kangaroo meat be local in Canada?"
   # image: "/assets/episode-cover.png"
 ---

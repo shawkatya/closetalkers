@@ -8,8 +8,9 @@ podcast:
   duration: 1788
   guid: "64121f05-960f-4af7-8e14-28b7e978e38f"
   season: 6
+  episode: 106
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Warning: This episode is about ass. We say it a lot. Fusili, blepharoplasty, vanity and hilarity ensue."
   # image: "/assets/episode-cover.png"
 ---

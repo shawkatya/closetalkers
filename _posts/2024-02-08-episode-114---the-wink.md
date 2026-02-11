@@ -8,8 +8,9 @@ podcast:
   duration: 1780
   guid: "284038b5-fc6d-440d-b973-8ea11589bad4"
   season: 7
+  episode: 114
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Too much happens in the span of two days. George winks constantly. We agree head-to-toe doesn't make sense."
   # image: "/assets/episode-cover.png"
 ---

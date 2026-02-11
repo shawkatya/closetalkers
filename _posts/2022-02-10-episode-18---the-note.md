@@ -8,8 +8,9 @@ podcast:
   duration: 2013
   guid: "606b44ae-8839-4b92-8ed4-0236d0397348"
   season: 3
+  episode: 18
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "George and Jerry get massages, Derek explains a preference and Katy gets a surprise."
   # image: "/assets/episode-cover.png"
 ---

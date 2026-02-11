@@ -8,8 +8,9 @@ podcast:
   duration: 1749
   guid: "3b7cbda1-d1b0-4545-8869-df048f0223d7"
   season: 6
+  episode: 101
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Elaine tries to recruit to her team. Jerry watches Melrose. We debate pointy heads."
   # image: "/assets/episode-cover.png"
 ---

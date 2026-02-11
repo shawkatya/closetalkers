@@ -8,8 +8,9 @@ podcast:
   duration: 1892
   guid: "2120d236-84ef-4e8d-9808-e8f29e83b173"
   season: 8
+  episode: 153
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We talk about this great episode, argue about land lines, yada yada yada, that's what she said."
   # image: "/assets/episode-cover.png"
 ---

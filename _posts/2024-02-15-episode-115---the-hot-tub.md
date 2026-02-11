@@ -8,8 +8,9 @@ podcast:
   duration: 1758
   guid: "257df884-bdaa-418f-84ad-20dfaba15a3b"
   season: 7
+  episode: 115
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Elaine tries to write catalogue copy and defends her alarm clock and microwave skills. Katy asks Derek to banter."
   # image: "/assets/episode-cover.png"
 ---

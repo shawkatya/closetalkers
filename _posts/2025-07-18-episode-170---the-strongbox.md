@@ -8,8 +8,9 @@ podcast:
   duration: 1839
   guid: "af331d51-00f2-4d70-87f6-2a98ee2bb213"
   season: 9
+  episode: 170
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We mention at least four actresses who aren't in this episode, propose an alternative to capital punishment and talk food and breakups."
   # image: "/assets/episode-cover.png"
 ---

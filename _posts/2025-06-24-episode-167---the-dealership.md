@@ -8,8 +8,9 @@ podcast:
   duration: 2552
   guid: "28e6b2a9-9a72-4d91-82b2-14a703ef60ef"
   season: 9
+  episode: 167
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "What's dumber than a cyber truck? Two cyber trucks. Derek has strong feelings about the Mexican wave. We eat candy."
   # image: "/assets/episode-cover.png"
 ---

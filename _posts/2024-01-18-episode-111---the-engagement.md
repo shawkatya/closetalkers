@@ -8,8 +8,9 @@ podcast:
   duration: 1843
   guid: "21317d2b-cfa0-47cb-9f7f-8ffcef5376dd"
   season: 7
+  episode: 111
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "She scooped the niblets. Katy identifies with Elaine as a pyjama-clad, neighbour-yeller. Derek appreciates knowing where you are and what you're doing. We discuss Mad About You."
   # image: "/assets/episode-cover.png"
 ---

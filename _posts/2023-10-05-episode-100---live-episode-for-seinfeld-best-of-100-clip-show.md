@@ -8,8 +8,9 @@ podcast:
   duration: 2981
   guid: "cbb0a083-916f-4793-85ac-a606812465cc"
   season: 6
+  episode: 100
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We go live for our 100th episode and Seinfeld's 100th episode clip show! We struggle with audio, we talk over the episode, we have a nice fun time."
   # image: "/assets/episode-cover.png"
 ---

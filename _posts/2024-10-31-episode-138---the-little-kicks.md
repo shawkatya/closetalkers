@@ -8,8 +8,9 @@ podcast:
   duration: 1469
   guid: "b4e8c5f4-2b63-45ea-b2d1-7559aee2f605"
   season: 8
+  episode: 138
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We're a napkin-positive household. George is bad and Katy likes it."
   # image: "/assets/episode-cover.png"
 ---

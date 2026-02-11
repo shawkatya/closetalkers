@@ -8,8 +8,9 @@ podcast:
   duration: 1718
   guid: "b8d8e200-bda4-487b-949f-1ea246d9fe27"
   season: 5
+  episode: 69
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "We're not playing egg badminton here, we're discussing party etiquette. George eats a sundae."
   # image: "/assets/episode-cover.png"
 ---

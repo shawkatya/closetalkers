@@ -8,8 +8,9 @@ podcast:
   duration: 2099
   guid: "9224b334-4df4-4cb0-a448-cc1a575ff3c5"
   season: 3
+  episode: 19
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek and Katy talk hoodies, Drag Race, surprises, and eventually about this episode, which is about what it deserves."
   # image: "/assets/episode-cover.png"
 ---

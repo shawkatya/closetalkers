@@ -8,8 +8,9 @@ podcast:
   duration: 2245
   guid: "95d15349-67e5-48b6-a9ea-1ef3a2ef67ed"
   season: 9
+  episode: 178
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Derek can't admit he's wrong about duodenum. Katy can't handle vomit. The gang encounters some roadblocks."
   # image: "/assets/episode-cover.png"
 ---

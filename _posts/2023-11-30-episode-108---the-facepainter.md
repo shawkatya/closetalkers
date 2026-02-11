@@ -8,8 +8,9 @@ podcast:
   duration: 2063
   guid: "7eac3f9e-0e71-442d-a786-2e602d2f7ae2"
   season: 6
+  episode: 108
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "You gotta support the team. This devolves into a hockey gossip podcast with a sidebar into butt wiping."
   # image: "/assets/episode-cover.png"
 ---

@@ -8,8 +8,9 @@ podcast:
   duration: 1575
   guid: "229d843d-578c-47d9-bdd9-cd465f808ef0"
   season: 6
+  episode: 103
   episode_type: "full"
-  explicit: "no"
+  explicit: "false"
   summary: "Frank has a lot going on on the top floor. George doesn't want kasha in bed. Derek refuses to believe Canada Post is responsible for postal codes."
   # image: "/assets/episode-cover.png"
 ---
